@@ -1,0 +1,4690 @@
+[
+  {
+    "name": "Khu nghỉ dưỡng Holiday Inn Hồ Tràm",
+    "location": "Ven Biển,  Xã Phước Thuận -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.9",
+    "reviews": "1366",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-holiday-inn-ho-tram"
+  },
+  {
+    "name": "Khách sạn Imperial Vũng Tàu",
+    "location": "159 Thùy Vân,  Phường  Thắng Tam -",
+    "price": "2149500",
+    "rating": "9.5",
+    "reviews": "2180",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-imperial-vung-tau"
+  },
+  {
+    "name": "Melia Hồ Tràm Beach Resort",
+    "location": "Đường Bờ biển,  Ấp Hồ Tràm,  Xã Phước Thuận -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.6",
+    "reviews": "1738",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-melia-ho-tram"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Ixora Hồ Tràm by Fusion",
+    "location": "Xã Phước Thuận,  Huyện Xuyên Mộc -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.7",
+    "reviews": "466",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-ixora-ho-tram-by-fusion"
+  },
+  {
+    "name": "Khách sạn ibis Styles Vũng Tàu",
+    "location": "117 Thùy Vân,  phường Thắng Tam -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.6",
+    "reviews": "1320",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-ibis-styles-vung-tau"
+  },
+  {
+    "name": "Mercure Hotel Vũng Tàu",
+    "location": "03 Hạ Long,  Phường 2 -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.6",
+    "reviews": "818",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-mercure-vung-tau"
+  },
+  {
+    "name": "Minera Hot Springs Bình Châu (Khoáng Nóng Thiên Nhiên Bình Châu)",
+    "location": "Quốc Lộ 55,  X. Bình Châu -",
+    "price": "1700000",
+    "rating": "9.3",
+    "reviews": "704",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/minera-hot-springs-binh-chau"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Dhawa Hồ Tràm",
+    "location": "Đường Bờ biển,  Ấp Hồ Tràm,  Xã Phước Thuận,  Huyện Xuyên Mộc -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.7",
+    "reviews": "256",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-dhawa-ho-tram"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Angsana Hồ Tràm",
+    "location": "Đường Bờ biển,  Ấp Hồ Tràm,  Xã Phước Thuận,  Huyện Xuyên Mộc -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.8",
+    "reviews": "96",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-angsana-ho-tram"
+  },
+  {
+    "name": "Khách sạn InterContinental Grand Hồ Tràm",
+    "location": "Ven Biển,  Xã Phước Thuận -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.6",
+    "reviews": "2228",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/InterContinental-Grand-Ho-Tram"
+  },
+  {
+    "name": "Khách sạn Fusion Suites Vũng Tàu",
+    "location": "số 2,  đường Trương Công Định -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.6",
+    "reviews": "394",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-fusion-suites-vung-tau"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Lan Rừng Beach Phước Hải",
+    "location": "Tỉnh lộ 44A,  thị trấn Phước Hải,  huyện Đất Đỏ -",
+    "price": "1398000",
+    "rating": "9.4",
+    "reviews": "946",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-lan-rung-beach-phuoc-hai"
+  },
+  {
+    "name": "Khách sạn Vias Vũng Tàu",
+    "location": "179 Thùy Vân,  Phường Tam Thắng -",
+    "price": "1700000",
+    "rating": "9.5",
+    "reviews": "129",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-vias-vung-tau"
+  },
+  {
+    "name": "Marina Bay Resort & Spa Vũng Tàu",
+    "location": "115 Trần Phú,  Phường 5 -",
+    "price": "2164500",
+    "rating": "9.6",
+    "reviews": "774",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/marina-bay-resort-spa-vung-tau"
+  },
+  {
+    "name": "Khách sạn Malibu Vũng Tàu",
+    "location": "263 Lê Hồng Phong,  Phường Thắng Tam -",
+    "price": "1754000",
+    "rating": "9.5",
+    "reviews": "648",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-malibu-vung-tau"
+  },
+  {
+    "name": "Khách sạn Premier Pearl Vũng Tàu",
+    "location": "Số 69-69A Thùy Vân,  Phường Vũng Tàu -",
+    "price": "1375000",
+    "rating": "9.3",
+    "reviews": "448",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-premier-pearl-vung-tau"
+  },
+  {
+    "name": "Khu Nghỉ Dưỡng Emerald Hồ Tràm",
+    "location": "Đường ven biển,  xã Hồ Tràm -",
+    "price": "1728000",
+    "rating": "9.7",
+    "reviews": "50",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-emerald-ho-tram"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Seava Hồ Tràm",
+    "location": "Tỉnh lộ 55,  X. Bưng Riềng -",
+    "price": "1685000",
+    "rating": "8.9",
+    "reviews": "155",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-seava-ho-tram"
+  },
+  {
+    "name": "Khách sạn The Cap Vũng Tàu",
+    "location": "01 Thi Sách,  P. Thắng Tam -",
+    "price": "1430000",
+    "rating": "9.3",
+    "reviews": "99",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-the-cap-vung-tau"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Le Palmier Hồ Tràm",
+    "location": "Đường Ven Biển,  ấp Hồ Tràm -",
+    "price": "1998000",
+    "rating": "9.4",
+    "reviews": "110",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-le-palmier-ho-tram"
+  },
+  {
+    "name": "Khách sạn Pullman Vũng Tàu",
+    "location": "15 Thi Sách,  Phường Vũng Tàu -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.4",
+    "reviews": "794",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-pullman-vung-tau"
+  },
+  {
+    "name": "Khách sạn Golden Era Vũng Tàu",
+    "location": "03-05 Thùy Vân,  Phường 2 -",
+    "price": "1700000",
+    "rating": "9.4",
+    "reviews": "315",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-golden-era-vung-tau"
+  },
+  {
+    "name": "Hồ Tràm Beach Boutique Resort & Spa",
+    "location": "Hồ Tràm,  X. Phước Thuận -",
+    "price": "1836000",
+    "rating": "9.3",
+    "reviews": "147",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-ho-tram-beach-vung-tau"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Vietsovpetro Hồ Tràm",
+    "location": "X. Phước Thuận,  H. Xuyên Mộc -",
+    "price": "1440000",
+    "rating": "8.3",
+    "reviews": "137",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-vietsovpetro-ho-tram"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Fleur de Lys Long Hải",
+    "location": "Tỉnh lộ 44A,  Long Điền -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.1",
+    "reviews": "203",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-fleur-de-lys-long-hai"
+  },
+  {
+    "name": "Khách sạn Green Vũng Tàu",
+    "location": "147C Thùy Vân,  P. Thắng Tam -",
+    "price": "739500",
+    "rating": "8.5",
+    "reviews": "72",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/green-hotel-vung-tau"
+  },
+  {
+    "name": "Khách sạn Corvin Vũng Tàu",
+    "location": "21 Thùy Vân,  P. 2 -",
+    "price": "693500",
+    "rating": "7.8",
+    "reviews": "125",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-corvin-vung-tau"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Carmelina Beach Hồ Tràm",
+    "location": "X. Phước Thuận,  H. Xuyên Mộc -",
+    "price": "2158000",
+    "rating": "9.3",
+    "reviews": "163",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-carmelina-beach-ho-tram"
+  },
+  {
+    "name": "Khách sạn New Wave Vũng Tàu",
+    "location": "151B Thùy Vân,  P. Thắng Tam -",
+    "price": "960000",
+    "rating": "8.6",
+    "reviews": "78",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-new-wave-vung-tau"
+  },
+  {
+    "name": "Khách sạn Romeliess Vũng Tàu",
+    "location": "31-33 Thùy Vân,  Bãi Sau,  P. 2 -",
+    "price": "648000",
+    "rating": "8.4",
+    "reviews": "119",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-romeliess-vung-tau"
+  },
+  {
+    "name": "Khách sạn Palace",
+    "location": "01 Nguyễn Trãi,  P.1 -",
+    "price": "937500",
+    "rating": "7.8",
+    "reviews": "20",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-palace-vung-tau"
+  },
+  {
+    "name": "Khu nghỉ dưỡng & biệt thự Sanctuary Hồ Tràm",
+    "location": "Hồ Tràm,  X. Phước Thuận -",
+    "price": "Hết phòng",
+    "rating": "8.8",
+    "reviews": "64",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-va-biet-thu-sanctuary-vung-tau"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Seaside Vũng Tàu",
+    "location": "28 Trần Phú,  Bãi Trước,  P. 1 -",
+    "price": "1016500",
+    "rating": "8.5",
+    "reviews": "114",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-seaside-vung-tau"
+  },
+  {
+    "name": "Khách sạn Minh Đăng Vũng Tàu",
+    "location": "05 La Văn Cầu,  Bãi Sau,  P. Thắng Tam -",
+    "price": "320000",
+    "rating": "8.9",
+    "reviews": "197",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/minh-dang-hotel-vung-tau"
+  },
+  {
+    "name": "Khách sạn Sammy Vũng Tàu",
+    "location": "157 Thùy Vân,  P. Thắng Tam -",
+    "price": "830500",
+    "rating": "8.2",
+    "reviews": "43",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-sammy-vung-tau"
+  },
+  {
+    "name": "Khách sạn Sea Mountain Vũng Tàu",
+    "location": "108/6Bis Trần Phú,  Bãi Dâu,  P. 5 -",
+    "price": "Hết phòng",
+    "rating": "8.7",
+    "reviews": "13",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-sea-mountain-vung-tau"
+  },
+  {
+    "name": "Khách sạn Kiều Anh",
+    "location": "267 Lê Hồng Phong,  P.8 -",
+    "price": "603000",
+    "rating": "8.7",
+    "reviews": "11",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-kieu-anh-vung-tau"
+  },
+  {
+    "name": "Khách sạn Bưu Điện Vũng Tàu",
+    "location": "158 Hạ Long,  P. 2 -",
+    "price": "614500",
+    "rating": "8.7",
+    "reviews": "55",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-buu-dien-vung-tau"
+  },
+  {
+    "name": "Binh An Village Vũng Tàu",
+    "location": "01 Trần Phú -",
+    "price": "Hết phòng",
+    "rating": "7.8",
+    "reviews": "5",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/binh-an-village-vung-tau"
+  },
+  {
+    "name": "Khách sạn Mường Thanh Holiday Vũng Tàu",
+    "location": "09 Thống Nhất,  P. 1 -",
+    "price": "1045000",
+    "rating": "9.0",
+    "reviews": "135",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-muong-thanh-vung-tau"
+  },
+  {
+    "name": "Khách sạn Rex Vũng Tàu",
+    "location": "01 Lê Quý Đôn,  P. 1 -",
+    "price": "633000",
+    "rating": "9.0",
+    "reviews": "28",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-rex-vung-tau"
+  },
+  {
+    "name": "Khách sạn Grand Vũng Tàu",
+    "location": "2 Nguyễn Du -",
+    "price": "730500",
+    "rating": "10.0",
+    "reviews": "1",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-grand-vung-tau"
+  },
+  {
+    "name": "Khách sạn Hoàng Linh Vũng Tàu",
+    "location": "45/32 Thùy vân,  Bãi Sau -",
+    "price": "279500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-hoang-linh-vung-tau"
+  },
+  {
+    "name": "Léman Cap Resort & Spa",
+    "location": "66/15 Hạ Long,  P.2 -",
+    "price": "Ưu đãi bí mật",
+    "rating": "9.6",
+    "reviews": "5",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/leman-cap-resort-and-spa"
+  },
+  {
+    "name": "Khách sạn The Coast Vũng Tàu",
+    "location": "300A Phan Chu Trinh,  P.2 -",
+    "price": "579000",
+    "rating": "7.7",
+    "reviews": "10",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-the-coast-vung-tau"
+  },
+  {
+    "name": "Khách sạn Phoenix Vũng Tàu",
+    "location": "249 Lê Hồng Phong,  Phường 8,  Thành Phố Vũng Tàu -",
+    "price": "558000",
+    "rating": "9.8",
+    "reviews": "17",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-phoenix-vung-tau"
+  },
+  {
+    "name": "Khách sạn Petro House Vũng Tàu",
+    "location": "63 Tran Hung Dao Str,  Ward 1 -",
+    "price": "492000",
+    "rating": "9.1",
+    "reviews": "9",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-petro-house-vung-tau"
+  },
+  {
+    "name": "Sunny Hotel Vũng Tàu",
+    "location": "48 Phan Văn Trị -",
+    "price": "Hết phòng",
+    "rating": "9.0",
+    "reviews": "3",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-sunny-vung-tau"
+  },
+  {
+    "name": "An Hoa Residence",
+    "location": "Long Hải -",
+    "price": "1339500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-an-hoa-residence-long-hai"
+  },
+  {
+    "name": "Khách sạn Vee Voo Vũng Tàu",
+    "location": "47 Phan Văn Trị,  P. Thắng Tam -",
+    "price": "365500",
+    "rating": "9.2",
+    "reviews": "23",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-vee-voo-vung-tau"
+  },
+  {
+    "name": "Oceanami Villas & Beach Club Long Hải",
+    "location": "Quốc Lộ 44A,  Thị Xã Phước Hải -",
+    "price": "1618500",
+    "rating": "8.6",
+    "reviews": "204",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/oceanami-villas-beach-club-long-hai"
+  },
+  {
+    "name": "Khách Sạn Bella Vita Phước Hải",
+    "location": "Khu phố Hải Tân,  Thị trấn Phước Hải -",
+    "price": "Hết phòng",
+    "rating": "9.8",
+    "reviews": "5",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-bella-vita-phuoc-hai"
+  },
+  {
+    "name": "Ocean Sunrise Vung Tau",
+    "location": "8 Thủ Khoa Huân -",
+    "price": "900500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/darby-park-serviced-residences483538"
+  },
+  {
+    "name": "Khách sạn Petro",
+    "location": "9 - 11 Hoàng Diệu,  Phường 1 -",
+    "price": "1214500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/petro-hotel"
+  },
+  {
+    "name": "Khách sạn Royal",
+    "location": "36 Quang Trung -",
+    "price": "928500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/royal-hotel-1"
+  },
+  {
+    "name": "Lotus Vung Tau Resort",
+    "location": "165C,  Đường Thùy Vân,  Phường Thắng Tam -",
+    "price": "1154000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lotus-vung-tau-resort"
+  },
+  {
+    "name": "Khách sạn & Căn hộ BH Residence Inn",
+    "location": "H55-H56-H57-H58 Phan Chu Trinh Street -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bh-residence-inn"
+  },
+  {
+    "name": "Khách sạn Queen Garden",
+    "location": "H3 - Khu Á Châu - Đường Phan Huy Chú - -",
+    "price": "285500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/queen-garden-hotel"
+  },
+  {
+    "name": "Dream Box Hostel",
+    "location": "27-29-31 Trưng Nhị,  P.1 -",
+    "price": "221500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/dream-box-hostel"
+  },
+  {
+    "name": "Hese Boutique Hotel & Apartment",
+    "location": "98 Phan Chu Trinh -",
+    "price": "541000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-wind-mountain-side-hotel"
+  },
+  {
+    "name": "Khách sạn Oceanward Phước Hải",
+    "location": "Đường ven biển,  Khu phố Hải Sơn,  thị trấn Phước Hải -",
+    "price": "1115500",
+    "rating": "7.8",
+    "reviews": "19",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-oceanward-phuoc-hai"
+  },
+  {
+    "name": "Khách Sạn Biển Ngọc Vũng Tàu",
+    "location": "18 Mạc Thanh Đạm – Phường 8- Thành phố Vũng Tàu -",
+    "price": "271000",
+    "rating": "8.0",
+    "reviews": "1",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-bien-ngoc-vung-tau"
+  },
+  {
+    "name": "Saint Simeon Resort & Spa Long Hải",
+    "location": "Ấp Tân Phước,  xã Phước Tỉnh -",
+    "price": "Hết phòng",
+    "rating": "8.6",
+    "reviews": "31",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/saint-simeon-resort-spa-long-hai"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Wind Boutique",
+    "location": "84-B10 Phan Chu Trinh -",
+    "price": "1759500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-wind-boutique-resort"
+  },
+  {
+    "name": "Melody Apartment Vũng Tàu - Xuân's Homestay",
+    "location": "149 Võ Thị Sáu -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/family-homestay-melody-vung-tau"
+  },
+  {
+    "name": "Khách sạn căn hộ DIC Star Landmark Vũng Tàu",
+    "location": "15 Thi Sách,  Thành phố Vũng Tàu -",
+    "price": "851000",
+    "rating": "8.3",
+    "reviews": "12",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-landmark-residence"
+  },
+  {
+    "name": "Longhai Channel Beach Resort",
+    "location": "Tỉnh lộ 44A Long Hải - Long Điền - Bà Rịa Vũng Tàu -",
+    "price": "1432500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/longhai-channel-beach-resort"
+  },
+  {
+    "name": "Khách sạn Quang Anh",
+    "location": "16 Nguyễn Hữu Tiến,  P.8 -",
+    "price": "Ưu đãi bí mật",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-quang-anh-vung-tau"
+  },
+  {
+    "name": "Khách sạn Golf Phú Mỹ",
+    "location": "1 Nguyễn Văn Linh -",
+    "price": "1815000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-golf-phu-my-vung-tau"
+  },
+  {
+    "name": "Khách sạn Mermaid Seaside Vũng Tàu",
+    "location": "164 Trần Phú,  P.5 -",
+    "price": "770000",
+    "rating": "8.8",
+    "reviews": "129",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-mermaid-seaside-vung-tau"
+  },
+  {
+    "name": "Khách sạn Nolis Vũng Tàu",
+    "location": "19 Thùy Vân,  P.2 -",
+    "price": "745500",
+    "rating": "9.3",
+    "reviews": "3",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-nolis-vung-tau"
+  },
+  {
+    "name": "Shin Sam Boutique Hotel",
+    "location": "17/5 Hồ Quý Ly -",
+    "price": "746500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-shin-sam-boutique-vung-tau"
+  },
+  {
+    "name": "Khách sạn Lucky Star Hồ Tràm",
+    "location": "Chợ hải sản Hồ Tr m -",
+    "price": "870000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lucky-star-ho-tram"
+  },
+  {
+    "name": "Khách sạn Prague Vũng Tàu",
+    "location": "338 Trương Công Định -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-prague-vung-tau"
+  },
+  {
+    "name": "Khách sạn Green River Boutique",
+    "location": "324/4 Bình Giã -",
+    "price": "1199500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-green-river-boutique"
+  },
+  {
+    "name": "Khách sạn Gia Hòa",
+    "location": "508 - 510 Đường Nguyễn An Ninh - Phường Nguyễn An Ninh - TP. Vũng Tàu -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-gia-hoa"
+  },
+  {
+    "name": "Khách sạn Thanh Xuân",
+    "location": "51Z (i.36) Phan Chu Trinh -",
+    "price": "438500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-thanh-xuan"
+  },
+  {
+    "name": "Sun Hill Hotel",
+    "location": "H60 Phan Chu Trinh -",
+    "price": "360000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sun-hill-hotel-66161556"
+  },
+  {
+    "name": "Grand Villa Residence",
+    "location": "Số 118 Đường Phan Chu Trinh - Phường 2 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/grand-villa-residence"
+  },
+  {
+    "name": "Khách sạn Suntorini Boutique Vũng Tàu",
+    "location": "86 Hạ Long,  Phường 2 -",
+    "price": "Hết phòng",
+    "rating": "9.5",
+    "reviews": "8",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-suntorini-boutique-vung-tau"
+  },
+  {
+    "name": "Khách sạn Annata Beach Vũng Tàu",
+    "location": "165 Thùy Vân,  Phường Thắng Tam,  Thành phố Vũng Tàu -",
+    "price": "1134000",
+    "rating": "8.7",
+    "reviews": "9",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-annata-beach-vung-tau"
+  },
+  {
+    "name": "Khách sạn Petro House Vũng Tàu (Block A)",
+    "location": "63 Trần Hưng Đạo,  Phường 1,  Thành phố Vũng Tàu -",
+    "price": "778000",
+    "rating": "10.0",
+    "reviews": "15",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-petro-house-vung-tau-block-a"
+  },
+  {
+    "name": "HANZ Hotel & Resort Bo Xay Dung",
+    "location": "So 1 Dang Thuy Tram,  Phuong 8 -",
+    "price": "364500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hanz-hotel-resort-bo-xay-dung"
+  },
+  {
+    "name": "Biệt thự  Sapphire",
+    "location": "To 05 Ap Ho Tram Xa Phuoc Thuan Huyen Xuyen Moc Tinh Ba Ria Vung Tau -",
+    "price": "570500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/villa-sapphire"
+  },
+  {
+    "name": "Khách sạn Lam Kiều",
+    "location": "E4 2/1 Chi Linh Urban Center - Ward 10 -",
+    "price": "393500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lam-kieu-hotel"
+  },
+  {
+    "name": "Saint Simeon Resort Villa Owner",
+    "location": "Commune -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/saint-simeon-resort-villa-owner"
+  },
+  {
+    "name": "Cozrum Luxury - Aria Resort Vũng Tàu",
+    "location": "Số 79 Đường D5,  Phường 10 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/cozrum-luxury-aria-resort-vung-tau"
+  },
+  {
+    "name": "Aria Resort - BlueShaphire Can ho nghi duong co ha boi va bai tam rieng",
+    "location": "79 Đường D5,  P 10,  thành phố Vũng Tàu -",
+    "price": "1986000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/aria-resort-blueshaphire-can-ho-nghi-duong-co-ha-boi-va-bai-tam-rieng"
+  },
+  {
+    "name": "Gold Stars Hotel",
+    "location": "Tinh lo 44 -",
+    "price": "473500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/gold-stars-hotel"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Palace Long Hải",
+    "location": "210 Hai Bà Trưng,  Khu phố Hải Phong 1,  Thị trấn Long Hải -",
+    "price": "1622000",
+    "rating": "10.0",
+    "reviews": "4",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-palace-long-hai"
+  },
+  {
+    "name": "Khách Sạn Ngọc Huyền",
+    "location": "4 Trương Văn Bang 4 trương văn bang,  phường 7 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-ngoc-huyen"
+  },
+  {
+    "name": "Khách Sạn MERMAID SEASIDE",
+    "location": "164 Trần Phú Phường 5 Tp.Vũng Tàu -",
+    "price": "839000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/mermaid-seaside-hotel"
+  },
+  {
+    "name": "Motel Kiến Nhĩ Tâm",
+    "location": "74 Truong Van Bang -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/kien-nhi-tam-motel"
+  },
+  {
+    "name": "Sao Mai Phu My Resort",
+    "location": "Km 47,  Quốc Lộ 51,  Phú Mỹ -",
+    "price": "1093500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sao-mai-phu-my-resort"
+  },
+  {
+    "name": "Phuc Khang Luxury Apartment - The Song Vung Tau",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/phuc-khang-luxury-apartment-the-song-vung-tau"
+  },
+  {
+    "name": "Khanh Linh Hotel",
+    "location": "18bis Tran Quy Cap street,  Thang Tam Ward -",
+    "price": "309000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khanh-linh-hotel"
+  },
+  {
+    "name": "Khách sạn Zelda",
+    "location": "61 Phó Đức Chính -",
+    "price": "345500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/zelda-hotel"
+  },
+  {
+    "name": "Mermaid Seaview Apartment Vung Tau",
+    "location": "Số 275,  Đường  L&#234; Hồng Phong -",
+    "price": "4755000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/mermaid-seaview-apartment-vung-tau"
+  },
+  {
+    "name": "THE SÓNG APARTMENT VŨNG TÀU - TRINH'S HOUSE",
+    "location": "28 Đường Thi Sách -",
+    "price": "397500",
+    "rating": "7.0",
+    "reviews": "2",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-trinh-homestay"
+  },
+  {
+    "name": "Khách sạn RedDoorz Thanh An gần Thùy Vân",
+    "location": "29 Phan Van Tri -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/reddoorz-thanh-an-hotel-near-thuy-van"
+  },
+  {
+    "name": "Stephen Oasky Vung Tau",
+    "location": "2 Lê Hồng Phong -",
+    "price": "2728000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/stephen-oasky-vung-tau"
+  },
+  {
+    "name": "Gia Han Guesthouse",
+    "location": "412/12 Le Hong Phong -",
+    "price": "216000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/gia-han-guesthouse"
+  },
+  {
+    "name": "Cozrum Homes - The Sóng Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/cozrum-homes-the-song-vung-tau"
+  },
+  {
+    "name": "Khách sạn La Vita",
+    "location": "Số 2B - Đường Lê Hồng Phong - Phường Thắng Tam -",
+    "price": "450500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/la-vita-hotel"
+  },
+  {
+    "name": "Khách sạn Amis",
+    "location": "147-149 Duong Hoang Hoa Tham -",
+    "price": "208000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/amis-hotel"
+  },
+  {
+    "name": "Mita's House - The Sóng Apartment Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "1272500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/mitas-house-the-song-apartment-vung-tau"
+  },
+  {
+    "name": "Marvelous Sea View",
+    "location": "02 Le Hong Phong ( Noi Dai)  street  -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/marvelous-sea-view"
+  },
+  {
+    "name": "APT Homestay Vung Tau",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-thesong-studio-50m2"
+  },
+  {
+    "name": "The Sóng Apartment Vũng Tàu – Paris Homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "412500",
+    "rating": "5.0",
+    "reviews": "2",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-paris-homestay"
+  },
+  {
+    "name": "Cozrum Homes - Melody Vũng Tàu",
+    "location": "149 Võ Thị Sáu -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/cozrum-homes-melody-vung-tau"
+  },
+  {
+    "name": "Khách sạn Bãi biển Annata",
+    "location": "Thắng Tam -",
+    "price": "1134000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/annata-beach-hotel"
+  },
+  {
+    "name": "Hawa Hotel",
+    "location": "19/4 Hồ Quý Ly -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hawa-hotel"
+  },
+  {
+    "name": "The Sóng - Miam Vungtau Condotel",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-miam-vungtau-condotel"
+  },
+  {
+    "name": "The Sóng Apartment Vũng Tàu - Xuân's Homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "496500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-xuans-homestay"
+  },
+  {
+    "name": "Khách Sạn Sunrise Vũng Tàu",
+    "location": "16 La Văn Cầu,  Phường Thắng Tam -",
+    "price": "390000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sunrise-hotel-vung-tau"
+  },
+  {
+    "name": "Romantic SeaView Hoang Phat",
+    "location": "1 La Văn Cầu -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/romantic-seaview-hoang-phat"
+  },
+  {
+    "name": "Khách sạn 26 Topaz",
+    "location": "26 La Van Cau Street,  Thang Tam Ward -",
+    "price": "423000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/26-topaz-hotel"
+  },
+  {
+    "name": "CSJ Seaside",
+    "location": "169 Thuy Van -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/csj-seaside"
+  },
+  {
+    "name": "Lucky House - Second Home in The Sóng Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lucky-house-second-home-in-the-song-vung-tau"
+  },
+  {
+    "name": "The Sóng Vũng Tàu Homestay - VTLand",
+    "location": "TSH-1.25; 28 Thi Sach,  Thang Tam Ward -",
+    "price": "1098000",
+    "rating": "10.0",
+    "reviews": "2",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-homestay-vung-tau-land"
+  },
+  {
+    "name": "1988 Homestay Vung Tau",
+    "location": "167/11  Võ Thị Sáu -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/1988-homestay-vung-tau-melody-apt"
+  },
+  {
+    "name": "Seika Hotel Vung Tau",
+    "location": "68 Vo Thi Sau street -",
+    "price": "293500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/seika-hotel-vung-tau"
+  },
+  {
+    "name": "The Sóng Apartment Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "477000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vung-tau-the-song-apartment"
+  },
+  {
+    "name": "Mercury Hotel & Apartment",
+    "location": "9 Trương Vĩnh Ký -",
+    "price": "349000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/mercury-hotel-apartment"
+  },
+  {
+    "name": "Seashell Homestay Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/seashell-homestay-vung-tau"
+  },
+  {
+    "name": "Caroline Beach Vung Tau",
+    "location": "53 Phan Văn Trị -",
+    "price": "275500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/caroline-beach-vung-tau"
+  },
+  {
+    "name": "The Sóng Apartment - Can Ho Du Lich Nghi Duong 5 Sao Vũng Tàu   -  Trinh Homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-tom%E2%80%99s-house"
+  },
+  {
+    "name": "BALI Motel Vung Tau",
+    "location": "1/2 Nguyen Trai -",
+    "price": "340500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bali-motel-vung-tau"
+  },
+  {
+    "name": "Khách sạn Hoàng Yến",
+    "location": "6B Le Ngoc Han,  P.1 -",
+    "price": "297500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hoang-yen-hotel-290230"
+  },
+  {
+    "name": "Kim Minh Boutique - Luxury Hotel & Apartment",
+    "location": "22 Ba Cu -",
+    "price": "687000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/kim-minh-boutique-luxury-hotel-apartment"
+  },
+  {
+    "name": "Joi Hospitality - KP House",
+    "location": "69/9 Phan Chu Trinh -",
+    "price": "199500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/kp-house-by-joi-hospitality"
+  },
+  {
+    "name": "VND Hotel & Coffee Vũng Tàu",
+    "location": "10 Trần Phú VND Hotel & Coffee  -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vnd-hotel-coffee-vung-tau"
+  },
+  {
+    "name": "Khách Sạn Hoa Sen",
+    "location": "Số 6/11 Đường Nguyễn Du - Phường 1 -",
+    "price": "530500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lotus-apartment-hotel"
+  },
+  {
+    "name": "Joi Hospitality - Hoang Anh",
+    "location": "i41 Phan Huy Ich -",
+    "price": "198000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hoang-anh-hotel-by-joi-hospitality"
+  },
+  {
+    "name": "Novelty Beach Hotel",
+    "location": "156 A  -",
+    "price": "373000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/novelty-beach-hotel"
+  },
+  {
+    "name": "Sevensea Vũng Tàu",
+    "location": "45/39A Thuy Van -",
+    "price": "431500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sevensea-vung-tau"
+  },
+  {
+    "name": "Anh Truc House - Near Front Beach",
+    "location": "77 Do Chieu,  Ward 3 -",
+    "price": "519500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/anh-truc-house-near-front-beach"
+  },
+  {
+    "name": "Joi Hospitality - Anthony",
+    "location": "42 Đường Phan Huy Ích -",
+    "price": "162000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/anthony-hotel-by-joi-hospitality"
+  },
+  {
+    "name": "Khách sạn Mi Lan Corner",
+    "location": "B36 Thai Van Lung,  Phuong 2 -",
+    "price": "357500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/mi-lan-corner-hotel"
+  },
+  {
+    "name": "BOBO Boutique Hotel",
+    "location": "09 Tạ Uyên -",
+    "price": "316000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bobo-boutique-hotel"
+  },
+  {
+    "name": "Khách sạn Central thuộc chuỗi Joi Hospitality",
+    "location": "Thành phố Vũng Tàu -",
+    "price": "164000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/central-hotel-by-joi-hospitality"
+  },
+  {
+    "name": "Tran Chau Beach & Resort",
+    "location": "Trụ Sở Khu Phố Hải Sơn -",
+    "price": "1131000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/tran-chau-beach-resort"
+  },
+  {
+    "name": "HappyZen Farm",
+    "location": "Cầu Suối Cát -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/happyzen-farm"
+  },
+  {
+    "name": "Cơm niêu Huế xưa - Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/com-nieu-hue-xua-vung-tau"
+  },
+  {
+    "name": "Luxury Apartment with Sea view (CSJ Tower)",
+    "location": "01 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/luxury-apartment-with-sea-view-csj-tower"
+  },
+  {
+    "name": "CSJ Tower Apartment Vung Tau, Bắp Homestay",
+    "location": "169 Thùy Vân -",
+    "price": "2748500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/csj-tower-apartment-vung-tau-bap-homestay"
+  },
+  {
+    "name": "BEARBRICK homestay near beach, CSJ Tower Apartment Vung Tau",
+    "location": "169 Thùy Vân -",
+    "price": "1091500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bearbrick-homestay-near-beach-csj-tower-apartment-vung-tau"
+  },
+  {
+    "name": "The Sóng Apartment",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment"
+  },
+  {
+    "name": "Nơi nghỉ dưỡng tuyệt vời",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/noi-nghi-duong-tuyet-voi"
+  },
+  {
+    "name": "CĂN HỘ CAO CẤP THE SÓNG",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-cao-cap-the-song-952008"
+  },
+  {
+    "name": "Apartment 5 star The Song Near Beach BBQ Vung Tau",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/apartment-5-star-the-song-near-beach-bbq-vung-tau"
+  },
+  {
+    "name": "Mít House - Căn Hộ Du Lịch Hướng Biển Vũng Tàu",
+    "location": "169 Thùy Vân -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/mit-house-can-ho-du-lich-huong-bien-vung-tau"
+  },
+  {
+    "name": "LEONHOMESTAY VIEW SEA AT BACK BEACH  VUNG TAU CITY",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/leonhomestay-view-sea-at-back-beach-vung-tau-city"
+  },
+  {
+    "name": "Motel Thủy Lộc",
+    "location": "305 Ấp Hồ Tràm,  Xã Phước Thuận -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/motel-thuy-loc"
+  },
+  {
+    "name": "Nhà Của Thóc - CSJ Tower Vũng Tàu",
+    "location": "169 Thùy Vân CSJ Tower Vũng Tàu -",
+    "price": "746000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nha-cua-thoc-csj-tower-vung-tau"
+  },
+  {
+    "name": "Simple Camp Vung Tau Homestay",
+    "location": "11 Nguyen Huu Tien,  Ward 8 -",
+    "price": "740000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/simple-camp-vung-tau-homestay"
+  },
+  {
+    "name": "Căn hộ cận biển CSJ Vũng Tàu - An An",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-can-bien-csj-vung-tau-an-an"
+  },
+  {
+    "name": "Phương Tú Hostel",
+    "location": "Đường Ven Biển -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/phuong-tu-hostel"
+  },
+  {
+    "name": "Ngọc Hân Hotel Vũng Tàu",
+    "location": "8A2 Thuy Van -",
+    "price": "378500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/ngoc-han-hotel-vung-tau-47663597"
+  },
+  {
+    "name": "JENBU HOUSE @peaceful @Thuy Tien beach",
+    "location": "18 Nguyễn Đình Tứ -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/jenbu-house-peaceful-thuy-tien-beach"
+  },
+  {
+    "name": "Homestay Sala",
+    "location": "Unnamed -",
+    "price": "601500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homestay-sala-45920922"
+  },
+  {
+    "name": "BEACHFRONT 3 Beds, 2BRs Apartment in Vung Tau",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/beachfront-3-beds-2brs-apartment-in-vung-tau"
+  },
+  {
+    "name": "Penthouse Sát Biển Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/penthouse-sat-bien-vung-tau"
+  },
+  {
+    "name": "Khu Nghỉ Dưỡng Tommy Hồ Tràm",
+    "location": "Đ. ODA Hồ Tràm -",
+    "price": "1309000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-nghi-duong-tommy-ho-tram"
+  },
+  {
+    "name": "Um House Villa Ho Tram",
+    "location": "Hồ Tràm -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/um-house-villa-ho-tram"
+  },
+  {
+    "name": "Khu nghỉ dưỡng ARIA Vũng Tàu",
+    "location": "79 Đường D5 -",
+    "price": "1621000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/aria-vung-tau-resort"
+  },
+  {
+    "name": "NaTa Home & Villa Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nata-home-villa-vung-tau"
+  },
+  {
+    "name": "Căn hộ Aria Resort VT 2 PN, View biển, tầng cao.",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-aria-resort-vt-2-pn-view-bien-tang-cao"
+  },
+  {
+    "name": "Căn hộ  -  Có Hồ Bơi và Sát Biển",
+    "location": "-",
+    "price": "1144000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-co-ho-boi-va-sat-bien"
+  },
+  {
+    "name": "Family’s Gateway",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/family-s-gateway"
+  },
+  {
+    "name": "Penthouse 300m2 Sea-View w Beach near by",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/penthouse-300m2-sea-view-w-beach-near-by"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Aria - Căn hộ và biệt thự sát biển",
+    "location": "79 Đường D5 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/aria-resort-can-ho-villa-sat-bien"
+  },
+  {
+    "name": "Ocean pearl Villa",
+    "location": "A 3  -",
+    "price": "628500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/ocean-pearl-villa"
+  },
+  {
+    "name": "Caroline Resort",
+    "location": "Số 10,  đường số 5 -",
+    "price": "365000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/caroline-resort"
+  },
+  {
+    "name": "Nha nghi Linh Quan",
+    "location": "310 Nguyễn An Ninh Phường 7 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nha-nghi-linh-quan"
+  },
+  {
+    "name": "An Nhien Home",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/an-nhien-home"
+  },
+  {
+    "name": "Khách sạn Thành Nam",
+    "location": "19 Provincial 44A,  Long Hai Town -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thanh-nam-hotel"
+  },
+  {
+    "name": "Hebe Homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hebe-homestay"
+  },
+  {
+    "name": "Chung cư Kim Tơ - Căn hộ Tầng 20 (Ocean View)",
+    "location": "-",
+    "price": "1047000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/chung-cu-kim-to-can-ho-tang-20-ocean-view"
+  },
+  {
+    "name": "Biệt thự Rosie trong khu nghỉ dưỡng Oceanami",
+    "location": "Tỉnh lộ 44A -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/rosie-villas-in-oceanami-resort"
+  },
+  {
+    "name": "Summer Beach Hotel Vung Tau",
+    "location": "45/18 Thùy Vân,  phường 2 -",
+    "price": "467500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/edoya-hotel-vung-tau-thuy-van"
+  },
+  {
+    "name": "Khách Sạn Phương Nam Vũng Tàu",
+    "location": "Số 32-34 đường Hạ Long -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/phuong-nam-hotel-vung-tau"
+  },
+  {
+    "name": "Khách sạn Sang trọng Blue Sea Vũng Tàu",
+    "location": "57D Dinh Tien Hoang Phuong 2 -",
+    "price": "439000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/blue-sea-luxury-hotel-vung-tau"
+  },
+  {
+    "name": "Khách sạn Front Beach thuộc chuỗi Joi Hospitality",
+    "location": "136 Hạ Long,  phường 2 -",
+    "price": "364000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/front-beach-hotel-by-joi-hospitality"
+  },
+  {
+    "name": "Sky Luck Hotel",
+    "location": "12/3 Hoang Hoa Tham -",
+    "price": "427500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sky-luck-hotel"
+  },
+  {
+    "name": "Khách sạn SK LEGEND Vũng Tàu",
+    "location": "No. 184,  Hoang Hoa Tham Street,  Ward 2,  Vung Tau City -",
+    "price": "752500",
+    "rating": "10.0",
+    "reviews": "2",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sk-legend-vung-tau-hotel"
+  },
+  {
+    "name": "Khách Sạn Vacsava",
+    "location": "143 Phan Chu Trinh -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vacsava-hotel"
+  },
+  {
+    "name": "Khách Sạn Hồng Hải 2",
+    "location": "154C Hoang Hoa Tham,  Ward 2 -",
+    "price": "373000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hong-hai-2-hotel"
+  },
+  {
+    "name": "Camy A Sin Hotel & Apartment",
+    "location": "51 Phan Chu Trinh -",
+    "price": "568500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/camy-a-sin-hotel-apartment"
+  },
+  {
+    "name": "Căn hộ Sơn Thịnh - Homestay",
+    "location": "23d Thùy Vân -",
+    "price": "3052500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-son-thinh-homestay"
+  },
+  {
+    "name": "Khách Sạn Hải Dương",
+    "location": "71 Nguyễn Hiền -",
+    "price": "403500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-hai-duong"
+  },
+  {
+    "name": "Khách sạn Bảo Khôi HANZ",
+    "location": "I44,  Phan Huy Ich -",
+    "price": "236500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hanz-bao-khoi-hotel"
+  },
+  {
+    "name": "La Bonte Boutique Home Vũng Tàu",
+    "location": "99/7 Phan Chu Trinh -",
+    "price": "315500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/la-bonte-boutique-home-vung-tau"
+  },
+  {
+    "name": "LILLY HOTEL",
+    "location": "20 Đường Phan Huy Ích -",
+    "price": "379500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lilly-hotel"
+  },
+  {
+    "name": "Khách sạn D'Melin Vũng Tàu",
+    "location": "12 Trương Công Định,  Phường 2 -",
+    "price": "1039000",
+    "rating": "10.0",
+    "reviews": "2",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hotel-dmelin"
+  },
+  {
+    "name": "Nhà Nghỉ Quê Ló",
+    "location": "982  Võ Thị Sáu -",
+    "price": "262000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nha-nghi-que-lo"
+  },
+  {
+    "name": "An Nhien Home No.3",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/an-nhien-home-no-3"
+  },
+  {
+    "name": "An Nhiên Villa Hotel",
+    "location": "BT5-L03 khu đô thị Phú Mỹ ATA ,  khu phố Vạn Hạnh ,  phường Phú Mỹ  -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/an-nhien-villa-hotel"
+  },
+  {
+    "name": "Hotel Minh Vy",
+    "location": "-",
+    "price": "521500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hotel-minh-vy"
+  },
+  {
+    "name": "Minh Hai Resort",
+    "location": "Group 13,  Thi Vai Ward -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/minh-hai-resort"
+  },
+  {
+    "name": "Anh Khoi Hotel & Apartment",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/anh-khoi-hotel-apartment"
+  },
+  {
+    "name": "HOTEL AN HOA II",
+    "location": "Khu phố phú hà Quốc lộ 51,  KCN mỹ xuân A2 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hotel-an-hoa-ii"
+  },
+  {
+    "name": "Phương Motel",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/phuong-motel"
+  },
+  {
+    "name": "Ruby Hotel&Apartment",
+    "location": "LK6-10 khu ATA ,  đường Lý Thường Kiệt ,  phường Phú Mỹ  -",
+    "price": "404500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/ruby-hotel-apartment"
+  },
+  {
+    "name": "Nhà nghỉ TRẦN ĐỨC",
+    "location": "TỔ 21 PHƯỚC HƯNG  -",
+    "price": "341000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nha-nghi-tran-d%E1%BB%A9c"
+  },
+  {
+    "name": "Khách Sạn Thu Hiền",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-thu-hien"
+  },
+  {
+    "name": "Cony’s Home Melody Vung Tau",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/cony-s-home-melody-vung-tau"
+  },
+  {
+    "name": "KHÁCH SẠN DTA",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-dta"
+  },
+  {
+    "name": "Căn hộ View Biển - Hồ bơi vô cực Panorama Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-view-bien-ho-boi-vo-c%E1%BB%B1c-panorama-vung-tau"
+  },
+  {
+    "name": "An Nhiên Apartment",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/an-nhien-apartment"
+  },
+  {
+    "name": "Caroline Sea Hotel",
+    "location": "151 Đ. Hoàng Hoa Thám -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/caroline-sea-hotel"
+  },
+  {
+    "name": "The Song Dolphin House - Feel like your home",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-dolphin-house-feel-like-your-home"
+  },
+  {
+    "name": "Bamboo Hotel Vũng Tàu",
+    "location": "09 Trần Quý Cáp -",
+    "price": "247500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bamboo-hotel-vung-tau"
+  },
+  {
+    "name": "Căn hộ Studio_Hồ Bơi ( phượng House)",
+    "location": "-",
+    "price": "1894500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-studio-ho-boi-phuong-house"
+  },
+  {
+    "name": "The song 5* plus . Thiết kế đẹp",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-5-plus-thiet-ke-dep"
+  },
+  {
+    "name": "51 Central Homestay - The Sóng Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/51-central-homestay-the-song-vung-tau"
+  },
+  {
+    "name": "Căn hộ The Sóng có BBQ, gym, hồ bơi cao nhất VT",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-the-song-co-bbq-gym-ho-boi-cao-nhat-vt"
+  },
+  {
+    "name": "THE SÓNG APARTMENT VŨNG TÀU - HAVILLA’ S HOUSE",
+    "location": "28 Đường Thi Sách phường thắng Tam,  Thành Phố Vũng Tàu  -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-luxury-apartment-can-ho-the-song-vung-tau-havilla-homestay"
+  },
+  {
+    "name": "Hải Long Hotel 2",
+    "location": "16 Phó Đức Chính -",
+    "price": "845000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hai-long-hotel-2"
+  },
+  {
+    "name": "Homestay Luxury - The Sóng",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homestay-luxury-the-song"
+  },
+  {
+    "name": "Tabo Home - Căn Hộ The Sóng Vũng Tàu",
+    "location": "28 Thi Sách,  Phường Thắng Tam -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/tabo-home-can-ho-the-song-vung-tau"
+  },
+  {
+    "name": "Căn hộ du lịch biển 5 sao - The Sóng Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-du-lich-bien-5-sao-the-song-vung-tau"
+  },
+  {
+    "name": "Căn hộ the sóng Vũng tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-the-song-vung-tau"
+  },
+  {
+    "name": "VinVin Homestay - The Song Vung Tau",
+    "location": "28 Đường Thi Sách -",
+    "price": "1966500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vinvin-homestay-the-song-vung-tau"
+  },
+  {
+    "name": "CĂN HỘ VIEW BIỂN  HỒ BƠI VÔ CỰC CAO NHẤT VŨNG TÀU",
+    "location": "-",
+    "price": "14402500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-view-bien-ho-boi-vo-c%E1%BB%B1c-cao-nhat-vung-tau"
+  },
+  {
+    "name": "VUNT TAU THE SONG APARTMENT- Sóng Homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vunt-tau-the-song-apartment-song-homestay"
+  },
+  {
+    "name": "Căn hộ The Sóng 5 sao sát bãi sau Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-the-song-5-sao-sat-bai-sau-vung-tau"
+  },
+  {
+    "name": "The Sóng 5sao Premium 2pn",
+    "location": "-",
+    "price": "742000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-5sao-premium-2pn"
+  },
+  {
+    "name": "OLIU'S HOUSE - The Song Homestay Vung Tau",
+    "location": "28 Đường Thi Sách -",
+    "price": "1123500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/olius-house-the-song-homestay-vung-tau"
+  },
+  {
+    "name": "Mango Homestay Luxury Appartment",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/mango-homestay-luxury-appartment"
+  },
+  {
+    "name": "Cozy House VungTau- Nice view on high floor",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/cozy-house-vungtau-nice-view-on-high-floor"
+  },
+  {
+    "name": "VUTA HOTEL CN2",
+    "location": "50 Phan Van Tri,  Thang Tam -",
+    "price": "256000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vuta-hotel-cn2"
+  },
+  {
+    "name": "Vinhouse",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vinhouse"
+  },
+  {
+    "name": "Homestay H&N",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homestay-h-n"
+  },
+  {
+    "name": "Luxury",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/luxury-34438143"
+  },
+  {
+    "name": "Homestay Hồng Hà - Căn hộ The Sóng 1 PN giường 1m8",
+    "location": "-",
+    "price": "1401000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homestay-hong-ha-can-ho-the-song-1-pn-giuong-1m8"
+  },
+  {
+    "name": "The Song Apartment near the beach Vung Tau (Linh's studio)",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-near-the-beach-vung-tau-linhs-studio"
+  },
+  {
+    "name": "Luxury apartment with infinity pool in Vung Tau",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/luxury-apartment-with-infinity-pool-in-vung-tau"
+  },
+  {
+    "name": "Bèm Homestay Vũng Tàu - The Sóng - Căn Hộ 3 Pn 2wc",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bem-homestay-vung-tau-the-song-can-ho-3-pn-2wc"
+  },
+  {
+    "name": "The Song Vung Tau By Abogo",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-by-abogo"
+  },
+  {
+    "name": "The Sóng Apartment Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-35906019"
+  },
+  {
+    "name": "Apt_ Homestays TheSong 3 bedroom",
+    "location": "-",
+    "price": "2387000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/apt-homestays-thesong-3-bedroom"
+  },
+  {
+    "name": "Shin's Apartment - The Sóng Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/shins-apartment-the-song-vung-tau"
+  },
+  {
+    "name": "VUNG TAU THE SONG APARTMENT- Sóng Homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vung-tau-the-song-apartment-song-homestay"
+  },
+  {
+    "name": "Marazul Vũng Tàu",
+    "location": "14 Phan Văn Trị -",
+    "price": "330000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/marazul-vung-tau"
+  },
+  {
+    "name": "Khách sạn Hằng Nga Luxury",
+    "location": "50A Pho Duc Chinh -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hang-nga-luxury-hotel"
+  },
+  {
+    "name": "Hộ ông Phan Bãi Sau Vũng Tàu",
+    "location": "-",
+    "price": "732000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/ho-ong-phan-bai-sau-vung-tau"
+  },
+  {
+    "name": "Tomorrow HomeStay Melody Luxury",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/tomorrow-homestay-melody-luxury"
+  },
+  {
+    "name": "The Sóng Deluxe RvLv",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-deluxe-rvlv"
+  },
+  {
+    "name": "Pi's Home - Căn Hộ Cho Thuê The Sóng Vũng Tàu",
+    "location": "Số 28 đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/pis-home-can-ho-cho-thue-the-song-vung-tau"
+  },
+  {
+    "name": "Sala Homestay - The Sóng Vũng Tàu",
+    "location": "Số 28 đường Thi Sach -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sala-homestay-the-song-vung-tau"
+  },
+  {
+    "name": "Lee HomeStay Căn Hộ Biển Vũng Tàu Melody",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lee-homestay-can-ho-bien-vung-tau-melody"
+  },
+  {
+    "name": "The Sóng Vũng Tàu - Lucky House",
+    "location": "Số 28 đường Thi Sach -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-lucky-house"
+  },
+  {
+    "name": "Pomelo Homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/pomelo-homestay"
+  },
+  {
+    "name": "Condotel cao cấp The Sóng",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/condotel-cao-cap-the-song"
+  },
+  {
+    "name": "OYO 159 Khách sạn Ruby",
+    "location": "53 La Van Cau,  Thang Tam Ward -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/ruby-hotel-6678340"
+  },
+  {
+    "name": "Bèm Homestay Vũng Tàu - The Sóng - Căn Hộ 2 Pn 1wc",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bem-homestay-vung-tau-the-song-can-ho-2-pn-1wc"
+  },
+  {
+    "name": "The Sóng căn hộ 5 sao",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-can-ho-5-sao"
+  },
+  {
+    "name": "Oasky Apartment Vung Tau - Bin's House",
+    "location": "02 Lê Hồng Phong -",
+    "price": "1887000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/oasky-apartment-vung-tau-bins-house"
+  },
+  {
+    "name": "Duc 555",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/duc-555"
+  },
+  {
+    "name": "VungTau Milan Homestay 2 (B4-12 Melody Appartment)",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-2-phong-ngu-the-song-voi-ho-boi-vo-cuc"
+  },
+  {
+    "name": "SEAANDSUN",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/seaandsun"
+  },
+  {
+    "name": "Chingu Vung Tau Home",
+    "location": "14 Phó Đức Chính -",
+    "price": "467500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/chingu-vung-tau-home"
+  },
+  {
+    "name": "The Song An Gia căn 2PN Full nội thất cao cấp",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-an-gia-can-2pn-full-noi-that-cao-cap"
+  },
+  {
+    "name": "Hannah's House",
+    "location": "-",
+    "price": "1231500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hannahs-house"
+  },
+  {
+    "name": "The Song Luxury Apartment by Lisa House",
+    "location": "28b Đường Thi Sách -",
+    "price": "864000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-luxury-apartment-by-lisa-house"
+  },
+  {
+    "name": "Sóng Xanh Homestay - The Sóng Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/song-xanh-homestay-the-song-vung-tau"
+  },
+  {
+    "name": "Bin's House Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "997500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bins-house-vung-tau"
+  },
+  {
+    "name": "Bèm Homestay Vũng Tàu - Melody - Căn Hộ 3 Pn 2wc",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bem-homestay-vung-tau-melody-can-ho-3-pn-2wc"
+  },
+  {
+    "name": "Homestaybacogai studio",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homestaybacogai-studio"
+  },
+  {
+    "name": "Vung Tau THE SONG Apartment - RubyVilla Near Beach",
+    "location": "28 Đường Thi Sách  -",
+    "price": "1332500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-condotel-5-sao-rubyvilla-homestay"
+  },
+  {
+    "name": "Phúc Đạt Hotel",
+    "location": "1 Lê Hồng Phong -",
+    "price": "329500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/phuc-dat-hotel"
+  },
+  {
+    "name": "Căn Hộ Cao Cấp View Biển - Miam Vungtau Condotel",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-cao-cap-view-bien-miam-vungtau-condotel"
+  },
+  {
+    "name": "Xoài Homestay Vũng Tàu - The Sóng Apartment",
+    "location": "28 Thi Sach -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/xoai-homestay-vung-tau-the-song-apartment"
+  },
+  {
+    "name": "The Song Apartment Sea View - 20 Tiện Ích Miễn Phí",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-sea-view-20-tien-ich-mien-phi"
+  },
+  {
+    "name": "The Sóng Apartment Vũng Tàu - Harry's Homestay",
+    "location": "28 Thi Sach,  Ward 8 -",
+    "price": "502000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-harrys-homestay"
+  },
+  {
+    "name": "Vũng Tàu căn hộ view biển Homee",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vung-tau-can-ho-view-bien-homee"
+  },
+  {
+    "name": "Tomorrow HomeStay Melody Deluxe",
+    "location": "-",
+    "price": "7792500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/tomorrow-homestay-melody-deluxe"
+  },
+  {
+    "name": "thiên ý hotel bãi sau vũng tàu",
+    "location": "52 Phó Đức Chính -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thien-y-hotel-bai-sau-vu%CC%83ng-tau"
+  },
+  {
+    "name": "The Sóng Vũng Tàu - Hào's Homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-haos-homestay"
+  },
+  {
+    "name": "The Sóng apartment Vũng Tàu – Minju homestay",
+    "location": "28 Đường Thi S&#225;ch -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-ho-boi-vo-c%E1%BB%B1c-minh"
+  },
+  {
+    "name": "The Sóng Apartment Vũng Tàu - Green House",
+    "location": "28 Đường Thi Sách -",
+    "price": "447500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-green-house"
+  },
+  {
+    "name": "The Song Apartment - Căn hộ The Song - Mai Villa Vũng Tàu",
+    "location": "28 Thi Sach Street,  Ward 8 -",
+    "price": "493000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-can-ho-the-song-mai-villa-vung-tau"
+  },
+  {
+    "name": "The Sóng Apartment Vũng Tàu - Yên Sa Home",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-yen-sa-home"
+  },
+  {
+    "name": "Sumi Homestay, Căn Hộ The Sóng Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sumi-homestay-can-ho-the-song-vung-tau"
+  },
+  {
+    "name": "SeaSala Hotel",
+    "location": "47 La Van Cau -",
+    "price": "209500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/seasala-hotel"
+  },
+  {
+    "name": "The Song Apartment - CoCohome",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-cocohome"
+  },
+  {
+    "name": "Trip Trip Ocean View Apartment - Vung Tau",
+    "location": "28 Đường Thi Sách  -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/trip-trip-ocean-view-apartment-vung-tau"
+  },
+  {
+    "name": "THỦY TIÊN MOTEL",
+    "location": "44 Phan Văn Trị,  Thắng Tam -",
+    "price": "318500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thuy-tien-motel"
+  },
+  {
+    "name": "Pơ’s Homestay",
+    "location": "-",
+    "price": "1002500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/po-s-homestay"
+  },
+  {
+    "name": "CONDOTEL 5 STAR THE SONG VŨNG TAU APARTMENT",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/condotel-5-star-the-song-vung-tau-apartment"
+  },
+  {
+    "name": "Gold Holiday Hotel",
+    "location": "12 Tran Quy Cap str. -",
+    "price": "393000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/gold-holiday-hotel"
+  },
+  {
+    "name": "THE SONG- Luxury  Apartment view beach and city",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-luxury-apartment-view-beach-and-city"
+  },
+  {
+    "name": "Julie's House - The Song Condotel Vung Tau",
+    "location": "Số 28 đường Thi Sách -",
+    "price": "590000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/julies-house-the-song-condotel-vung-tau"
+  },
+  {
+    "name": "Khách sạn Châu Trần",
+    "location": "51 La Van Cau Street,  Thang Tam Ward -",
+    "price": "264500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/chau-tran-hotel"
+  },
+  {
+    "name": "Aloha’s happy homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/aloha-s-happy-homestay"
+  },
+  {
+    "name": "Căn hộ 1 giường cho cặp đôi/ gia đình nhỏ",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-1-giuong-cho-cap-doi-gia-dinh-nho"
+  },
+  {
+    "name": "Căn Hộ 3 Mặt Biển The Sóng - Miam Vungtau Condotel",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-3-mat-bien-the-song-miam-vungtau-condotel"
+  },
+  {
+    "name": "TWO BEDROOM APARTMENT WITH POOL ON HIGHFLOOR",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/two-bedroom-apartment-with-pool-on-highfloor"
+  },
+  {
+    "name": "The Song homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-homestay"
+  },
+  {
+    "name": "Hải Dương 2",
+    "location": "23 Phan Văn Trị 23 Phan Văn Trị,  Phường Thắng Tam,  Tp Vũng Tàu -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hai-duong-2"
+  },
+  {
+    "name": "Căn hộ cao cấp  Mermaid view trực diển biển",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-cao-cap-mermaid-view-tr%E1%BB%B1c-dien-bien"
+  },
+  {
+    "name": "Coral Homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/coral-homestay"
+  },
+  {
+    "name": "Apartment The Sóng view sea near beach at Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/apartment-the-song-view-sea-near-beach-at-vung-tau"
+  },
+  {
+    "name": "Căn hộ view biển tiêu chuẩn 5 sao cực chill",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-view-bien-tieu-chuan-5-sao-c%E1%BB%B1c-chill"
+  },
+  {
+    "name": "Căn hộ Studio The Sóng Vũng Tàu - View Nội Khu",
+    "location": "-",
+    "price": "4262500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-studio-the-song-vung-tau-view-noi-khu"
+  },
+  {
+    "name": "Bảo Bảo' Homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bao-bao-homestay"
+  },
+  {
+    "name": "K&K Homestay Vung Tau ( seaview) - The Song",
+    "location": "-",
+    "price": "1023000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/k-k-homestay-vung-tau-seaview-the-song"
+  },
+  {
+    "name": "Can ho OASKY Vung Tau",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-oasky-vung-tau"
+  },
+  {
+    "name": "The Song 2+",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-2"
+  },
+  {
+    "name": "Căn Hộ The Sóng Free Hồ Bơi Vô Cực  AnAn Homestay1",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-the-song-free-ho-boi-vo-c%E1%BB%B1c-anan-homestay1"
+  },
+  {
+    "name": "Vũng Tàu The Song Apartment - Paris Homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "418000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vung-tau-the-song-apartment-paris-homestay"
+  },
+  {
+    "name": "Vani's  House - The Sóng Condotel Vũng Tàu",
+    "location": "Số 28 đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vanis-house-the-song-condotel-vung-tau"
+  },
+  {
+    "name": "Chung cư melody 2br",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/chung-cu-melody-2br"
+  },
+  {
+    "name": "The Sóng  apartment Vũng Tàu - LiLe's HomeStay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-liles-homestay"
+  },
+  {
+    "name": "The Sóng Vũng Tàu Apartment",
+    "location": "-",
+    "price": "872500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-apartment"
+  },
+  {
+    "name": "Căn Hộ The Sóng Vũng Tàu ( Nhìn ra Biển)",
+    "location": "-",
+    "price": "3210000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-the-song-vung-tau-nhin-ra-bien"
+  },
+  {
+    "name": "The Sóng Luxury Apartment Vũng Tàu",
+    "location": "28 thi sach .phường thắng tam  -",
+    "price": "975000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-luxury-apartment-vung-tau"
+  },
+  {
+    "name": "CHARM THE SÓNG APARTMENT",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/charm-the-song-apartment"
+  },
+  {
+    "name": "PLUS VUNG TAU HOTEL",
+    "location": "28 Phó Đức Chính -",
+    "price": "370500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/plus-vung-tau-hotel"
+  },
+  {
+    "name": "D House The Song Vung Tau Condotel",
+    "location": "28 Đường Thi S&#225;ch -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/d-house-the-song-vung-tau-condotel"
+  },
+  {
+    "name": "HoLyhome - Homestay Vung Tau",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/holyhome-homestay-vung-tau"
+  },
+  {
+    "name": "The Song Apartment - Tropical House",
+    "location": "28 Thi Sach Street,  Ward 8 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-tropical-house"
+  },
+  {
+    "name": "Erica's House -The Sóng căn hộ biển 5 sao Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "1086000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/ericas-house-the-song-can-ho-bien-5-sao-vung-tau"
+  },
+  {
+    "name": "The Song Condotel Luxury - Can ho Du Lich Bien Vung Tau - Trinh Homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "543000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-condotel-luxury-can-ho-du-lich-bien-vung-tau"
+  },
+  {
+    "name": "MÝ ƠI Homestay-The Sóng Condotel-3 Bedrooms",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/my-oi-homestay-the-song-condotel-3-bedrooms"
+  },
+  {
+    "name": "Marazul Homestay & Villa",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/marazul-homestay-villa"
+  },
+  {
+    "name": "Apartment The Song Vung tau",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/apartment-the-song-vung-tau"
+  },
+  {
+    "name": "The Song Apartment Vung Tau- Minju homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-minju-homestay"
+  },
+  {
+    "name": "Tabo Homestay - Căn Hộ The Sóng Vũng Tàu Condotel",
+    "location": "28 Đường Thi Sach -",
+    "price": "746000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/tabo-homestay-can-ho-the-song-vung-tau-condotel"
+  },
+  {
+    "name": "Apartment the sóng",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/apartment-the-song-952952"
+  },
+  {
+    "name": "Su's House - The Sóng Condotel Vũng Tàu",
+    "location": "Số 28 đường Thi Sách -",
+    "price": "639500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sus-house-the-song-condotel-vung-tau"
+  },
+  {
+    "name": "The Song Apartment - ViViVilla Homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "654000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vivivilla-homestay"
+  },
+  {
+    "name": "Dai An Hotel",
+    "location": "151a Đường Hoàng Hoa Thám -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/dai-an-hotel"
+  },
+  {
+    "name": "Sun House The Sóng Apartment",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sun-house-the-song-apartment"
+  },
+  {
+    "name": "The Sóng Vũng Tàu - PK Luxury Condotel",
+    "location": "28 Đường Thi Sách -",
+    "price": "832000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-pk-luxury-condotel"
+  },
+  {
+    "name": "Căn Hộ The Song (Tomorrow Homestay 2)",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-the-song-tomorrow-homestay-2"
+  },
+  {
+    "name": "Căn hộ nghỉ dưỡng The Sóng",
+    "location": "The Sóng Premium Apartment - AZ TEAM -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-nghi-duong-the-song-952991"
+  },
+  {
+    "name": "Homestay Hồng Hà - Căn hộ The Sóng  5 sao 2 phòng",
+    "location": "-",
+    "price": "663500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homestay-hong-ha-can-ho-the-song-5-sao-2-phong"
+  },
+  {
+    "name": "MeoMeo Homestay – The Sóng Apartment",
+    "location": "28 Đường Thi Sách -",
+    "price": "544500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/meomeo-homestay-the-song-apartment"
+  },
+  {
+    "name": "Samimi home - Căn hộ The Sóng Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/samimi-home-can-ho-the-song-vung-tau"
+  },
+  {
+    "name": "The Song Apartment Vung Tau - Mita's House",
+    "location": "-",
+    "price": "2836000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-mitas-house"
+  },
+  {
+    "name": "Sunny  melody  vung tau uyen",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sunny-melody-vung-tau-uyen"
+  },
+  {
+    "name": "Lavie Angia secondhome !",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lavie-angia-secondhome"
+  },
+  {
+    "name": "The Sóng Apartment Vũng Tàu - Căn Hộ 2 Phòng Ngủ",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-can-ho-2-phong-ngu"
+  },
+  {
+    "name": "Vân's House - The Sóng Apartment Vũng Tàu",
+    "location": "Số 28 Đường Thi Sách -",
+    "price": "450000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vans-house-the-song-apartment"
+  },
+  {
+    "name": "Căn hộ The Sóng Vũng Tàu - Tầng cao View Hồ bơi",
+    "location": "-",
+    "price": "4012500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-the-song-vung-tau-tang-cao-view-ho-boi"
+  },
+  {
+    "name": "An Phú Condotel - The Sóng Apartment Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/an-phu-condotel-the-song-apartment-vung-tau"
+  },
+  {
+    "name": "Sơn Thịnh - Beach Oasky apartment",
+    "location": "-",
+    "price": "3700000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/son-thinh-beach-oasky-apartment"
+  },
+  {
+    "name": "Bin’s House - The Song Vung Tau",
+    "location": "28 Đường Thi Sách -",
+    "price": "703500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bin-s-house-the-song-vung-tau"
+  },
+  {
+    "name": "The Song LE-A House Homestay Vung Tau near Beach",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-le-a-house-homestay-vung-tau-near-beach"
+  },
+  {
+    "name": "The Sóng Vũng Tàu 3",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-3"
+  },
+  {
+    "name": "Căn hộ Condontel The Sóng Vũng Tàu",
+    "location": "-",
+    "price": "4262500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-condontel-the-song-vung-tau"
+  },
+  {
+    "name": "Bo - Homestay  The Song 2pn",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bo-homestay-the-song-2pn"
+  },
+  {
+    "name": "Sabina Luxury Boutique Hotel & Villa",
+    "location": "5A Lê Hồng Phong -",
+    "price": "29837500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sabina-luxury-boutique-hotel-villa"
+  },
+  {
+    "name": "SeaSala VT Hotel",
+    "location": "19/1A Hồ Quý Ly -",
+    "price": "205000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/seasala-vt-hotel"
+  },
+  {
+    "name": "Sunny Canopy Homestay",
+    "location": "-",
+    "price": "3878000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sunny-canopy-homestay"
+  },
+  {
+    "name": "The Song Vũng Tàu Apartment - Cookies Homestay Căn Hộ Biển",
+    "location": "28 Thi Sach Street,  Ward 8 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-apartment-cookies-homestay-can-ho-bien"
+  },
+  {
+    "name": "Homestay Hồng Hà - Căn hộ  The Sóng 2 Phòng Ngủ",
+    "location": "-",
+    "price": "1609000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homestay-hong-ha-can-ho-the-song-2-phong-ngu"
+  },
+  {
+    "name": "Căn hộ nghỉ dưỡng cao cấp Luxury Condotel Vung Tau",
+    "location": "28 Đường Thi Sách,  Phường Thắng Tam -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-nghi-duong-cao-cap-luxury-condotel-vung-tau"
+  },
+  {
+    "name": "The Song Vung Tau Apartment  (View Pullman)",
+    "location": "-",
+    "price": "4762500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-apartment-view-pullman"
+  },
+  {
+    "name": "The Sóng Vũng Tàu 1",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-1"
+  },
+  {
+    "name": "Studio Apartment Louis&Jack Home 50m2 with Balcony",
+    "location": "-",
+    "price": "767000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/studio-apartment-louis-jack-home-50m2-with-balcony"
+  },
+  {
+    "name": "Hoang Bach Hotel",
+    "location": "31 La Văn Cầu,  Phường Thắng Tam -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hoang-bach-hotel"
+  },
+  {
+    "name": "The Sóng Vũng Tàu - Suri's 3 Bedroom Apartment",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-suris-3-bedroom-apartment"
+  },
+  {
+    "name": "MELODY VŨNG TÀU",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/melody-vung-tau"
+  },
+  {
+    "name": "The Song Vung Tau - Green Apartment",
+    "location": "28A Đường Thi S&#225;ch -",
+    "price": "618500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/aparcondotel-the-song-vung-tau"
+  },
+  {
+    "name": "Căn hộ Gateway view hồ bơi, thành phố",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-gateway-view-ho-boi-thanh-pho"
+  },
+  {
+    "name": "High-class Apartments close to the sea",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/high-class-apartments-close-to-the-sea"
+  },
+  {
+    "name": "The Sóng Condotel Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-condotel-vung-tau"
+  },
+  {
+    "name": "THE SÓNG VIEW TP VÀ PULLMAN - TUYỆT VỜI",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-view-tp-va-pullman-tuyet-voi"
+  },
+  {
+    "name": "The song",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song"
+  },
+  {
+    "name": "Cozy Apartment – The Sóng Vũng Tàu",
+    "location": "Số 28 đường Thi Sách -",
+    "price": "1449500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/cozy-apartment-the-song-vung-tau"
+  },
+  {
+    "name": "Cozrum Homes - Phoenix DIC Apartment",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/cozrum-homes-phoenix-dic-apartment"
+  },
+  {
+    "name": "Gateway 1 phong ngu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/gateway-1-phong-ngu"
+  },
+  {
+    "name": "Phuoc Hai Hotel by The Moment",
+    "location": "9a Nguyễn Trường Tộ -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/phuoc-hai-hotel-by-the-moment"
+  },
+  {
+    "name": "Family Room",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/family-room"
+  },
+  {
+    "name": "Hoang Sang",
+    "location": "53 Nguyễn Hiền -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hoang-sang"
+  },
+  {
+    "name": "Khách sạn Mi Lan Diamond",
+    "location": "H27 Thái Văn Lung -",
+    "price": "430000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/mi-lan-diamond-hotel"
+  },
+  {
+    "name": "Thi Thanh Hotel",
+    "location": "5 Tô Hiệu,  Phường 2 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thi-thanh-hotel"
+  },
+  {
+    "name": "The Song Apartment Vung Tau - T House",
+    "location": "28 Đường Thi Sách -",
+    "price": "562000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-du-lich-nghi-duong-the-song-trinhs-house"
+  },
+  {
+    "name": "Căn hộ nghỉ dưỡng 5 * tuyệt vời dành cho gia đình",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-nghi-duong-5-tuyet-voi-danh-cho-gia-dinh"
+  },
+  {
+    "name": "The Queen Apartment with Sea view A9-11",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-2-phong-ngu-the-song-co-ho-boi-huong-bien"
+  },
+  {
+    "name": "Căn hộ Goldsea  2PN view biển b18-03",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-goldsea-2pn-view-bien-b18-03"
+  },
+  {
+    "name": "HƯƠNG PALACE",
+    "location": "-",
+    "price": "10780000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/huong-palace-953371"
+  },
+  {
+    "name": "Khách Sạn & Căn Hộ Phúc Lâm",
+    "location": "234A Phan Chu Trinh,  Phuong 2 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/phuc-lam-hotel-apartment"
+  },
+  {
+    "name": "Apartment 3 GOLD SEA - SWIMMING POOL - Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/apartment-3-gold-sea-swimming-pool-vung-tau"
+  },
+  {
+    "name": "Bibi Homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bibi-homestay"
+  },
+  {
+    "name": "Khanh homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khanh-homestay"
+  },
+  {
+    "name": "Thịnh Anh Hotel",
+    "location": "D5 - 27 Thái Văn Lung -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thinh-anh-hotel"
+  },
+  {
+    "name": "Apartment For Rent",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/apartment-for-rent"
+  },
+  {
+    "name": "Căn hộ nghĩ dưỡng cao cấp 4sao gần biển Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-nghi-duong-cao-cap-4sao-gan-bien-vung-tau"
+  },
+  {
+    "name": "SUITE 5* THE SÓNG JENBU",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/suite-5-the-song-jenbu"
+  },
+  {
+    "name": "The Sóng Vũng Tàu Dhouse",
+    "location": "28 Đường Thi Sách -",
+    "price": "1919500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau"
+  },
+  {
+    "name": "Gateway 2 phong ngu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/gateway-2-phong-ngu"
+  },
+  {
+    "name": "Khách sạn BIS hotel & coffee Vũng Tàu",
+    "location": "PA.0101,  Block A,  Chung Cư DIC Phoenix,  Trung Tâm Đô Thị Chí Linh,  Phường Nguyễn An Ninh -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-bis-hotel-coffee-vung-tau"
+  },
+  {
+    "name": "Khách sạn Tre Việt",
+    "location": "598 Duong Nguyen An Ninh,  Phuong nguyen An Ninh -",
+    "price": "254000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bamboo-hotel-13541849"
+  },
+  {
+    "name": "The Sóng Vũng Tàu - Bin's House",
+    "location": "28 Đường Thi Sách -",
+    "price": "701500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-bins-house"
+  },
+  {
+    "name": "Babylon Mini Resort",
+    "location": "Hẻm 2 Vi Ba -",
+    "price": "877500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/babylon-mini-resort"
+  },
+  {
+    "name": "Kim Minh Apartment & Hotel",
+    "location": "54 Trần Hưng Đạo - Phường 1 - Thanh phố Vũng Tàu -",
+    "price": "511000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/kim-minh-apartment-hotel"
+  },
+  {
+    "name": "The Alcove Apartment Vung Tau",
+    "location": "4 Trưng Trắc -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-alcove-apartment-vung-tau"
+  },
+  {
+    "name": "Hoang Minh 846 Hostel",
+    "location": "846 C31-C32 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hoang-minh-846-hostel"
+  },
+  {
+    "name": "Khách Sạn Cô Ba",
+    "location": "12/1 Hoàng Hoa Thám -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/co-ba-hotel"
+  },
+  {
+    "name": "CĂN HỘ 1PN A2405",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-1pn-a2405"
+  },
+  {
+    "name": "Khách Sạn Bãi Trước",
+    "location": "154A Ha Long street -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hotel-bai-truoc"
+  },
+  {
+    "name": "Khách Sạn Hương Phong",
+    "location": "20 Ha Long -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/huong-phong-hotel"
+  },
+  {
+    "name": "HOMEAWAY 02 - THE SONG APARTMENT VUNG TAU",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homeaway-03-the-song-apartment-2brs-lux-condotel"
+  },
+  {
+    "name": "Hotel Hoai Anh",
+    "location": "81/26f Thùy Vân,  Phường 2 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hotel-hoai-anh"
+  },
+  {
+    "name": "Khách Sạn Thu Trang Beachfront",
+    "location": "67 THUY VAN -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thu-trang-beachfront-hotel"
+  },
+  {
+    "name": "DUY KHANG hotel",
+    "location": "145 Phan Chu Trinh -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/duy-khang-hotel"
+  },
+  {
+    "name": "MILANESA HOTEL & APARTMENT",
+    "location": "5a  Đinh Tiên Hoàng phường 2,  tp vũng tàu -",
+    "price": "287000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/milanesa-hotel-apartment"
+  },
+  {
+    "name": "Khách sạn La Casa",
+    "location": "22 Phan Huy Ich -",
+    "price": "542500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/la-casa-hotel-30142363"
+  },
+  {
+    "name": "Khách Sạn Anthony",
+    "location": "I43 Phan Huy Ich Street,  Ward 2 -",
+    "price": "314000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/anthony-hotel"
+  },
+  {
+    "name": "HOMEAWAY 01 - THE SONG APARTMENT VUNG TAU",
+    "location": "-",
+    "price": "1074500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homeaway-01-the-song-apartment-3brs-lux-condotel"
+  },
+  {
+    "name": "HOMEAWAY - MELODY VUNG TAU",
+    "location": "-",
+    "price": "1095000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homeaway-melody-vung-tau"
+  },
+  {
+    "name": "Fusion Studio Apartment",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/fusion-studio-apartment"
+  },
+  {
+    "name": "Front Beach Hotel",
+    "location": "154A Hạ Long -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/front-beach-hotel-47818146"
+  },
+  {
+    "name": "Khách sạn Lucys",
+    "location": "138 Hạ Long -",
+    "price": "799000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lucys-hotel"
+  },
+  {
+    "name": "Homestay Bonvoyage",
+    "location": "234 Phan Chu Trinh,  Phường 2,  Thành phố Vũng Tầu -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homestay-bonvoyage"
+  },
+  {
+    "name": "Khách sạn & Căn hộ Vũng Tàu Luxury",
+    "location": "206-208-210,  Phan Chu Trinh -",
+    "price": "335500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vung-tau-luxury-hotel-apartment"
+  },
+  {
+    "name": "Montana Homestay Vũng Tàu",
+    "location": "5 Hải Đăng -",
+    "price": "430000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/montana-homestay-vung-tau"
+  },
+  {
+    "name": "Vung Tau Goldsea Apartment - Sea View,  and Pool",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vung-tau-goldsea-apartment-sea-view-and-pool"
+  },
+  {
+    "name": "Fusion Studio City View Apartment",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/fusion-studio-city-view-apartment"
+  },
+  {
+    "name": "căn hộ 3 phòng view biển rộng",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-3-phong-view-bien-rong"
+  },
+  {
+    "name": "Hotel Hoàng Phú",
+    "location": "45/15 Thùy Vân -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hotel-hoang-phu"
+  },
+  {
+    "name": "Marina Luxury Vũng Tàu",
+    "location": "12A Hải Đăng -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/marina-luxury-vung-tau"
+  },
+  {
+    "name": "Nin Garden Homestay",
+    "location": "26 Võ Thị Sáu,  Phường 2 -",
+    "price": "249000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nin-garden-homestay"
+  },
+  {
+    "name": "Cua Homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/cua-homestay"
+  },
+  {
+    "name": "Golden Hotel",
+    "location": "107 Thuy Van -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/golden-hotel-1019772"
+  },
+  {
+    "name": "Biệt thự & Nhà dân 126 Vũng Tàu",
+    "location": "128/16 Đ. Hoàng Hoa Thám -",
+    "price": "5876000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/villas-homestay-126-vung-tau"
+  },
+  {
+    "name": "OYO 1216 Ha Hotel",
+    "location": "78207,  C19 Bàu Sen 7,  Khu Á Châu,  Phường 2,  Thành phố Vũng Tàu,  Tỉnh Bà Rịa - Vũng Tàu,  78207 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/oyo-1216-ha-hotel"
+  },
+  {
+    "name": "Rubillion Hotel",
+    "location": "139 Võ Thị Sáu -",
+    "price": "401500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/rubillion-hotel"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Mi Lan Boutique",
+    "location": "240 - 242 Phan Chu Trinh,  Phuong 2 -",
+    "price": "789500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/mi-lan-boutique-resort"
+  },
+  {
+    "name": "OYO 1217 Thao Nguyen Hotel",
+    "location": "1 Phan Huy Chú -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/oyo-1217-thao-nguyen-hotel"
+  },
+  {
+    "name": "Apartment 2 GOLD SEA - SWIMMING POOL - Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/apartment-2-gold-sea-swimming-pool-vung-tau"
+  },
+  {
+    "name": "Khách sạn Hoàng Anh Vũng Tàu",
+    "location": "I41 Phan Huy Ich -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hoang-anh-hotel-vung-tau"
+  },
+  {
+    "name": "Com Homestay",
+    "location": "-",
+    "price": "2984000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/com-homestay"
+  },
+  {
+    "name": "OYO 1212 Uyen Phuong Motel",
+    "location": "2 Đường Bàu Sen 1 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/oyo-1212-uyen-phuong-motel"
+  },
+  {
+    "name": "TNH Hotel Vung Tau",
+    "location": "I16 Đường Bầu Sen 2 -",
+    "price": "226000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sea-ruby-hotel"
+  },
+  {
+    "name": "Nếp Apartment Hotel",
+    "location": "44 vo thi sau, phuong 2 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nep-apartment-hotel"
+  },
+  {
+    "name": "The Ruộng Resort",
+    "location": "Xóm Rẫy,  Xuyên Mộc -",
+    "price": "772500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-ruong-resort"
+  },
+  {
+    "name": "Hoang Minh Hotel Vung Tau",
+    "location": "27a Th&#249;y V&#226;n -",
+    "price": "323000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hoang-minh-hotel-vung-tau"
+  },
+  {
+    "name": "Khu nghỉ dưỡng Happy Stay - Novaland Bình Châu",
+    "location": "Ven Bien Street -",
+    "price": "3868000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/happy-stay-resort-novaland-binh-chau-new-furniture"
+  },
+  {
+    "name": "Biệt thự gần bãi biển CocoPalm - Phòng Coco",
+    "location": "Nguyễn Tất Thành -",
+    "price": "314000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/cocopalm-villa-near-beach-coco-room"
+  },
+  {
+    "name": "Khu du lịch Bờ Hồ",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-du-lich-bo-ho"
+  },
+  {
+    "name": "Biệt thự gần bãi biển CocoPalm - Phòng Palm",
+    "location": "Nguyễn Tất Thành -",
+    "price": "345500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/cocopalm-villa-near-beach-palm-room"
+  },
+  {
+    "name": "Biệt thự 16 m² 1 phòng ngủ, 1 phòng tắm riêng ở Ho Coc",
+    "location": "-",
+    "price": "305500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hotel-toan-thinh-view-bien-binh-chau"
+  },
+  {
+    "name": "Minh DAM Hotel & Restaurant",
+    "location": "Hai Son Quarter, Phuoc Hai Town -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/minh-dam-hotel-restaurant"
+  },
+  {
+    "name": "Homestay Lightly",
+    "location": "Group 5,  Hamlet 3,  Bung Rieng Commune,  National Road 55,  Ho Coc -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homestay-lightly"
+  },
+  {
+    "name": "Thanh Homestay",
+    "location": "-",
+    "price": "760000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thanh-homestay"
+  },
+  {
+    "name": "Hoang Tam Villa",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hoang-tam-villa"
+  },
+  {
+    "name": "The Serect Con Dao",
+    "location": "08 Ton Duc Thang Con Dao -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-serect-con-dao"
+  },
+  {
+    "name": "Hodota Bình Châu Resort & Camping",
+    "location": "Quốc lộ 55 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hodota-binh-chau-resort-camping"
+  },
+  {
+    "name": "Thanh home stay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thanh-home-stay"
+  },
+  {
+    "name": "Lop forest homestay",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lop-forest-homestay"
+  },
+  {
+    "name": "The Rebirth Apartment Binh Chau Ho Tram",
+    "location": "to 10,  ap Binh Hoa,  xa Binh Chau -",
+    "price": "813000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-rebirth-apartment"
+  },
+  {
+    "name": "Sunny Hotel Xuyên Mộc",
+    "location": "359 đường 27 tháng 4,  thị trấn Phước Bửu,  huyện Xuyên Mộc -",
+    "price": "523500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sunny-hotel-xuyen-moc"
+  },
+  {
+    "name": "Khách sạn Vên Vên Hồ Cốc",
+    "location": "Xã Bưng Riềng,  Huyện Xuyên Mộc -",
+    "price": "767500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/ven-ven-hotel-ho-coc"
+  },
+  {
+    "name": "\bPhoenix, lakefront, comfort Apart - PLV 0711 D.P",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/phoenix-lakefront-comfort-apart-plv-0711-d-p"
+  },
+  {
+    "name": "Khách sạn Skool Plus Vũng Tàu",
+    "location": "160/2 Trần Phú,  Phường 5 -",
+    "price": "859000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-skool-plus-vung-tau"
+  },
+  {
+    "name": "Khách sạn Oyster Bay Vũng Tàu",
+    "location": "82B Trần Phú,  Phường 5 -",
+    "price": "1034000",
+    "rating": "9.4",
+    "reviews": "25",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/oyster-bay-hotel-vung-tau"
+  },
+  {
+    "name": "PK Luxury Beach Condotel - The Song Vung Tau",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/pk-luxury-beach-condotel-the-song-vung-tau"
+  },
+  {
+    "name": "Yalkun’s Home – The Sóng Condotel Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/yalkunas-home-the-song-condotel-v%C5%A9ng-tau"
+  },
+  {
+    "name": "Palma Homestay The Song Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/palma-homestay-the-song-vu%CC%83ng-tau"
+  },
+  {
+    "name": "Khách sạn Victory Vũng Tàu",
+    "location": "149 Thùy Vân,  Phường Thắng Tam -",
+    "price": "Ưu đãi bí mật",
+    "rating": "10.0",
+    "reviews": "2",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-victory-vung-tau"
+  },
+  {
+    "name": "Apartment 1 GOLD SEA - SWIMMING POOL - Vũng Tàu",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/apartment-1-gold-sea-swimming-pool-vung-tau"
+  },
+  {
+    "name": "Căn hộ 2pn Vũng Tàu mặt biển Goom Apartment",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-2pn-vung-tau-mat-bien-goom-apartment"
+  },
+  {
+    "name": "Nhà Bin homestay",
+    "location": "-",
+    "price": "760000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nha-bin-homestay"
+  },
+  {
+    "name": "Minh Nhan Hotel",
+    "location": "24A Nguyen Hien -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/minh-nhan-hotel"
+  },
+  {
+    "name": "Nhật Hạ Hotel Vũng Tàu",
+    "location": "-",
+    "price": "4357500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nhat-ha-hotel-vung-tau-953650"
+  },
+  {
+    "name": "Thanh Nhan homestay Vung Tau",
+    "location": "53 Nguyễn Hiền -",
+    "price": "235000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thanh-nhan-homestay-vung-tau"
+  },
+  {
+    "name": "AN NHIÊN HOTEL",
+    "location": "30 Đường Phan Huy Ích -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/an-nhien-hotel"
+  },
+  {
+    "name": "Hostel Nam Phương 2",
+    "location": "81/12 Thuy Van -",
+    "price": "1647000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nam-phuong-hostel-2"
+  },
+  {
+    "name": "Green LP Hotel & Apartment",
+    "location": "70 Phan Chu Trinh -",
+    "price": "445000",
+    "rating": "10.0",
+    "reviews": "1",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/green-lp-hotel-apartment"
+  },
+  {
+    "name": "V Boutique Hotel - Complimentary refreshments",
+    "location": "32 Đ. Phan Huy Ích -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/v-boutique-hotel"
+  },
+  {
+    "name": "Naples Studio Apartment 303",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/naples-studio-apartment-303"
+  },
+  {
+    "name": "Khách Sạn Lighthouse Vũng Tàu",
+    "location": "45/29 đường Th y V n -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lighthouse-hotel-vung-tau"
+  },
+  {
+    "name": "Ham Homestay",
+    "location": "163 Bà Triệu -",
+    "price": "247000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/ham-homestay"
+  },
+  {
+    "name": "Dylan Hotel",
+    "location": "109/23 Vo Thi Sau street -",
+    "price": "231000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/dylan-hotel-9059732"
+  },
+  {
+    "name": "THE VIEW HOTEL",
+    "location": "12a Hải Đăng -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-view-hotel-51549131"
+  },
+  {
+    "name": "Vivu CSJ Tower Vũng Tàu",
+    "location": "169 Thuy Van -",
+    "price": "639500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vivu-csj-tower-v%C5%A9ng-tau"
+  },
+  {
+    "name": "Khách Sạn Bảo Hoàng Vũng Tàu",
+    "location": "91 Đường Nguyễn Thị Minh Khai -",
+    "price": "253500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-bao-hoang-v%C5%A9ng-tau"
+  },
+  {
+    "name": "Nhà Của Măng - CSJ Tower Bãi Sau Vũng Tàu",
+    "location": "169 Thuy Van -",
+    "price": "751000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nha-c%E1%BB%A7a-mang-csj-tower-bai-sau-v%C5%A9ng-tau"
+  },
+  {
+    "name": "Khu Nghĩ dưỡng Rubby Hồ Tràm",
+    "location": "Đ. ODA Hồ Tràm -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khu-ngh%C4%A9-da%E1%BB%A1ng-rubby-h%E1%BB%93-tram"
+  },
+  {
+    "name": "Lucky Star Resort",
+    "location": "tổ 9,  Phước Tân,  Xuyên Mộc,  Bà Rịa – Vũng Tàu -",
+    "price": "1035500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/lucky-star-resort-54343616"
+  },
+  {
+    "name": "Villa - Oceanami Resort & Beach Club",
+    "location": "Oceanami Villas &amp; Beach Club - 44A Highway,  Dat Do Town -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/villa-oceanami-resort-beach-club"
+  },
+  {
+    "name": "Can Ho Nghi Duong DATOUR HOME - OASKY VUNG TAU",
+    "location": "số 2 Lê Hồng Phong -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-nghi-duong-datour-home-oasky-vung-tau"
+  },
+  {
+    "name": "The Sóng Condotel Vũng Tàu - Healing House",
+    "location": "28 Thi Sach -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-condotel-v%C5%A9ng-tau-healing-house"
+  },
+  {
+    "name": "The Sóng Apartment Vũng Tàu - Cỏ Ba Lá Homestay",
+    "location": "28 Đường Thi Sach -",
+    "price": "654500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-v%C5%A9ng-tau-c%E1%BB%8F-ba-la-homestay"
+  },
+  {
+    "name": "The Sóng Apartment Vũng Tàu - Hương's Homestay",
+    "location": "28 Thi Sach -",
+    "price": "639500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-v%C5%A9ng-tau-haangs-homestay"
+  },
+  {
+    "name": "Luxury The Song Apartment - TSR Co.ltd",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/luxury-the-song-apartment-tsr-co-ltd"
+  },
+  {
+    "name": "The Sóng Vũng Tàu An Home",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vu%CC%83ng-tau-an-home"
+  },
+  {
+    "name": "NaPa Homestay - The Sóng Vũng Tàu",
+    "location": "Số 28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/napa-homestay-the-song-v%C5%A9ng-tau"
+  },
+  {
+    "name": "The Song Apartment 5 Star - Windy's Home",
+    "location": "28 Thi Sach -",
+    "price": "442000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-5-star-windys-home"
+  },
+  {
+    "name": "The Sóng Vũng Tàu - Homestay Nhà Mình",
+    "location": "28 Thi Sach -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-v%C5%A9ng-tau-homestay-nha-minh"
+  },
+  {
+    "name": "Oasky36 - Datour",
+    "location": "02 Lê Hồng Phong -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/oasky36-datour"
+  },
+  {
+    "name": "The Sóng Apartment - Bear Homestay Vung Tau",
+    "location": "28 Thi Sach -",
+    "price": "891000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-bear-homestay-vung-tau"
+  },
+  {
+    "name": "Binh Minh Resort - Vung Tau Cable Car",
+    "location": "01A TRAN PHU STREET,  WARD 1 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/binh-minh-resort-vung-tau-cable-car"
+  },
+  {
+    "name": "Khách sạn Tuyết Lan",
+    "location": "1A Pho Duc Chinh -",
+    "price": "448500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/tuyet-lan-hotel"
+  },
+  {
+    "name": "STELLA Hotel & Apartment",
+    "location": "98 Vo Thi Sau,  Phuong Thang Tam -",
+    "price": "739500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/stella-hotel-apartment"
+  },
+  {
+    "name": "The Sóng Apartment Vũng Tàu- May Homestay",
+    "location": "28 Đường Thi Sach -",
+    "price": "400500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-v%C5%A9ng-tau-may-homestay"
+  },
+  {
+    "name": "The Song Vung tàu apartmen",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-apartmen"
+  },
+  {
+    "name": "KHÁCH SẠN HOME VŨNG TÀU",
+    "location": "04 TRƯNG TRẮC,  PHƯỜNG 01 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-home-v%C5%A9ng-tau"
+  },
+  {
+    "name": "Can ho Truong Son",
+    "location": "3 Phan Đình Phùng -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-truong-son"
+  },
+  {
+    "name": "Sunflower Villa With Infinity Swimming Pool",
+    "location": "07 Đường Vi Ba -",
+    "price": "7246500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sunflower-villa-with-infinity-swimming-pool"
+  },
+  {
+    "name": "THE SÓNG APARTMENT VŨNG TÀU - MAI'S HOUSE",
+    "location": "28 Đường Thi Sách -",
+    "price": "489000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-v%C5%A9ng-tau-mais-house"
+  },
+  {
+    "name": "Diamond Sea Hotel",
+    "location": "21 La Van Cau Diamond Sea -",
+    "price": "381000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/diamond-sea-hotel"
+  },
+  {
+    "name": "Chingu Boutique Home Vũng Tàu",
+    "location": "12/15 Đ. Phan Huy Ích -",
+    "price": "385000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/chingu-boutique-home-v%C5%A9ng-tau"
+  },
+  {
+    "name": "An Hotel",
+    "location": "38 Võ Thị Sáu -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/an-hotel-59846125"
+  },
+  {
+    "name": "Twins Hotel",
+    "location": "1 Ô3/17 khu phố Hải Sơn,  đường Võ Thị Sáu,  Thị Trấn Phước Hải -",
+    "price": "385500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/twins-hotel-55339827"
+  },
+  {
+    "name": "Hafi Boutique Hotel",
+    "location": "122 Hạ Long -",
+    "price": "586500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hafi-boutique-hotel-54800477"
+  },
+  {
+    "name": "Amy Motel Xuyên Mộc",
+    "location": "QL55,  ấp 4 -",
+    "price": "336000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/amy-motel-xuyan-m%E1%BB%99c"
+  },
+  {
+    "name": "Thuy Duong Resort",
+    "location": "44A Provincial Road,  Phuoc Hai Town,  Dat Do -",
+    "price": "2991000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thuy-duong-resort-45031390"
+  },
+  {
+    "name": "Khách sạn Iconic Long Hải",
+    "location": "208 Đường Hai B  Trưng,  Thị trấn Long Hải,  Huyện Long Đất -",
+    "price": "1244500",
+    "rating": "9.6",
+    "reviews": "5",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-iconic-long-hai"
+  },
+  {
+    "name": "CSJ Tower Vũng Tàu - May Homestay",
+    "location": "169 Thuy Van -",
+    "price": "999000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/csj-tower-vung-tau-may-homestay"
+  },
+  {
+    "name": "Bắp’s Sea View Apartment in CSJ Tower",
+    "location": "169 Thùy Vân -",
+    "price": "941500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bapas-sea-view-apartment-in-csj-tower"
+  },
+  {
+    "name": "Ken's House - CSJ Apartment Vũng Tàu",
+    "location": "169 Thùy Vân -",
+    "price": "673500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/kens-house-csj-apartment-vung-tau"
+  },
+  {
+    "name": "Classy Home - CSJ Tower Vũng Tàu, Luxury, Sky-Sea View and Walk-To-Beach",
+    "location": "169 Thùy Vân -",
+    "price": "417500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/classy-home-csj-tower-vung-tau-luxury-sky-sea-view-and-walk-to-beach"
+  },
+  {
+    "name": "5 homestay",
+    "location": "154/4 Bình Giã -",
+    "price": "494000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/5-homestay"
+  },
+  {
+    "name": "Mun's Home  - Căn Hộ Cao Cấp CSJ  Bãi Sau Vũng Tàu",
+    "location": "01 Đường Thi Sách -",
+    "price": "1309500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/muns-home-can-ho-cao-cap-csj-bai-sau-vung-tau"
+  },
+  {
+    "name": "SeaSide Apartment - CSJ Tower Vũng Tàu",
+    "location": "169 Thùy Vân -",
+    "price": "422500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/seaside-apartment-csj-tower-vung-tau"
+  },
+  {
+    "name": "Tay Thi95 Hotel",
+    "location": "16 Nguyễn Hữu Tiến -",
+    "price": "397500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/tay-thi95-hotel"
+  },
+  {
+    "name": "An's Home - CSJ Tower Vũng Tàu",
+    "location": "169 Thuy Van -",
+    "price": "937000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/ans-home-csj-tower-vung-tau"
+  },
+  {
+    "name": "BeachSide Suites - CSJ Vung Tau Tower, Ocean View",
+    "location": "169 Thùy Vân -",
+    "price": "417500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/beachside-suites-csj-vung-tau-tower-ocean-view"
+  },
+  {
+    "name": "The Lana Ho Tram Homestay",
+    "location": "Ấp Hồ Tràm,  xã Phước Thuận -",
+    "price": "523500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-lana-ho-tram-homestay"
+  },
+  {
+    "name": "Villa Santuary Ho Tram",
+    "location": "Sanctuary Resort Ho Tram -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/villa-santuary-ho-tram"
+  },
+  {
+    "name": "VANILLA HO TRAM HOMESTAY",
+    "location": "Ho Tram Hamlet,  Xuyen Moc District -",
+    "price": "850500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/vanilla-ho-tram-homestay"
+  },
+  {
+    "name": "Beachfront villa Sanctuary Ho Tram, 4 Bedrooms",
+    "location": "Ho tram beach,  Phuoc Thuan -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/beachfront-villa-sanctuary-ho-tram-4-bedrooms"
+  },
+  {
+    "name": "5 homestay - No. 4",
+    "location": "79 H  Huy Tập -",
+    "price": "1669500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/5-homestay-no-4"
+  },
+  {
+    "name": "Diamond Star Hotel",
+    "location": "E21 – 22 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/diamond-star-hotel-65276174"
+  },
+  {
+    "name": "Alcove Long Hai Oceanami Resort",
+    "location": "Quốc lộ 44A -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/alcove-long-hai-oceanami-resort"
+  },
+  {
+    "name": "Nhà Nghỉ Sinh Đôi",
+    "location": "74 Đ. Lý Tự Trọng -",
+    "price": "597000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nha-nghi-sinh-doi"
+  },
+  {
+    "name": "Hoa Giấy Hilltop Retreat",
+    "location": ",  Ấp Mỹ Hoà -",
+    "price": "639500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hoa-giey-hilltop-retreat"
+  },
+  {
+    "name": "Khách Sạn Cà Phê Dinh Cô",
+    "location": "214 Đ. Hai Bà Trưng -",
+    "price": "441500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-ca-pha-dinh-ca"
+  },
+  {
+    "name": "Oceanami Villas & Beach Club",
+    "location": "Quốc lộ 44A -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/oceanami-villas-beach-club"
+  },
+  {
+    "name": "Oceanami Resort 1,2,3,4,5 Bedroom Long Hai",
+    "location": "ĐT44A -",
+    "price": "1283000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/oceanami-resort-1-2-3-4-5-bedroom-long-hai"
+  },
+  {
+    "name": "The Sóng Vũng Tàu - Suri's Apartment",
+    "location": "28 Đường Thi Sách -",
+    "price": "6420000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-suris-apartment"
+  },
+  {
+    "name": "Tokyo Homestay - The Song 5 Stars Apartment",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/tokyo-homestay-the-song-5-stars-apartment"
+  },
+  {
+    "name": "The Song House Vung Tau",
+    "location": "28 Đường Thi Sách -",
+    "price": "497500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-house-vung-tau-63550428"
+  },
+  {
+    "name": "Dreamer Hotel",
+    "location": "06 La Văn Cầu -",
+    "price": "677500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/dreamer-hotel"
+  },
+  {
+    "name": "The Sóng Vũng Tàu - Thương's Homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-thuongs-homestay"
+  },
+  {
+    "name": "Hải Phong Hotel",
+    "location": "18 Phó Đức Chính -",
+    "price": "248500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hai-phong-hotel-64024178"
+  },
+  {
+    "name": "Luxury Apartment Bi Homestay The Song Vung Tau",
+    "location": "28 đường Thi S ch,  phường Thắng Tam -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/luxury-apartment-bi-homestay-the-song-vung-tau"
+  },
+  {
+    "name": "The Sóng Dhouse",
+    "location": "28 Đường Thi Sách -",
+    "price": "1083500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-dhouse"
+  },
+  {
+    "name": "Can ho Studio The Song Vung Tau - Hong Ha Homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "443000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-studio-the-song-vung-tau-hong-ha-homestay"
+  },
+  {
+    "name": "Căn Hộ The Sóng Vũng Tàu - Sophia's Homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "629000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/can-ho-the-song-vung-tau-sophias-homestay"
+  },
+  {
+    "name": "The Song  Apartment Vung Tau - Minh Vũ Apartment",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-minh-vu-apartment"
+  },
+  {
+    "name": "The Song Apartment - Lucy's House",
+    "location": "28 Thi Sach -",
+    "price": "480000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-lucys-house"
+  },
+  {
+    "name": "SUNday Premium Apart - The Song Vung Tau, SkyPool",
+    "location": "28 Đường Thi Sách -",
+    "price": "481500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sunday-premium-apart-the-song-vung-tau-skypool"
+  },
+  {
+    "name": "Mon Mon’s Homestay – The Sóng Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/mon-monas-homestay-the-song-vung-tau"
+  },
+  {
+    "name": "Dứa's House - The Sóng Vũng Tàu, Sky Pool & Gym",
+    "location": "28 Đường Thi Sách -",
+    "price": "469500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/duas-house-the-song-vung-tau-sky-pool-gym"
+  },
+  {
+    "name": "Bông's Homestay - Căn Hộ Du Lịch The Sóng Vũng Tàu",
+    "location": "28 đường Thi Sách -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/bongs-homestay-can-ho-du-lich-the-song-vung-tau"
+  },
+  {
+    "name": "The Rex’s Song Boutique Apartment",
+    "location": "28 Đường Thi Sách -",
+    "price": "535000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-rexas-song-boutique-apartment"
+  },
+  {
+    "name": "Mun's Home - Căn Hộ Cao Cấp The Sóng Vũng Tàu",
+    "location": "28 Đường Thi Sách -",
+    "price": "746500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/muns-home-can-ho-cao-cap-the-song-vung-tau"
+  },
+  {
+    "name": "The Sóng Apartment Vung Tau – Mây’s House",
+    "location": "28 Đường Thi Sách -",
+    "price": "550000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-apartment-vung-tau-mayas-house"
+  },
+  {
+    "name": "Hotel TiGôn",
+    "location": "19/8 Hồ Quý Ly -",
+    "price": "345500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hotel-tigan"
+  },
+  {
+    "name": "The Sóng Vũng Tàu - Su Su Homestay",
+    "location": "28 Đường Thi Sách -",
+    "price": "533000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-song-vung-tau-su-su-homestay"
+  },
+  {
+    "name": "Nang's Apartment - The Song Vung Tau",
+    "location": "2 Đường Thi S ch -",
+    "price": "487500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nangs-apartment-the-song-vung-tau"
+  },
+  {
+    "name": "Oasis Suites - The Song, Infinity Pool & Gymt",
+    "location": "28 Đường Thi Sách -",
+    "price": "469500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/oasis-suites-the-song-infinity-pool-gymt"
+  },
+  {
+    "name": "462 Motel",
+    "location": "462 Bình Giã -",
+    "price": "4262500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/462-motel"
+  },
+  {
+    "name": "Ngoc Hien",
+    "location": "A42 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/ngoc-hien"
+  },
+  {
+    "name": "Moonlight Homestay Vung Tau City Central",
+    "location": "8 Ba Cu -",
+    "price": "493500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/moonlight-homestay-vung-tau-city-central"
+  },
+  {
+    "name": "Joi Boutique Bãi Trước",
+    "location": "04 Thống Nhất,  phường 1 -",
+    "price": "328500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/joi-boutique-bai-truoc"
+  },
+  {
+    "name": "SUNSHINE HOTEL VŨNG TÀU",
+    "location": "H43 Hoàng Trọng Mậu -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/sunshine-hotel-vung-tau"
+  },
+  {
+    "name": "Homestay Uncledon",
+    "location": "69/5 Phan Chu Trinh. Phường 2. -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/homestay-uncledon"
+  },
+  {
+    "name": "5 homestay - No.3",
+    "location": "H4 Phan Huy Ch  -",
+    "price": "617000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/5-homestay-no-3"
+  },
+  {
+    "name": "Villas 126-G1 Vung Tau",
+    "location": "Thái Văn Lung -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/villas-126-g1-vung-tau"
+  },
+  {
+    "name": "NGỌC CHÂU HOTEL",
+    "location": "H25A Phan Huy Chú -",
+    "price": "370500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/ngoc-chau-hotel"
+  },
+  {
+    "name": "Thuý Hạnh Hotel",
+    "location": "23D Thùy Vân -",
+    "price": "552500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thuy-hanh-hotel"
+  },
+  {
+    "name": "Thuý Hạnh Homestay",
+    "location": "Thùy Vân -",
+    "price": "552500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thuy-hanh-homestay"
+  },
+  {
+    "name": "Seven Daddy Homestay",
+    "location": "87 Phan Chu Trinh -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/seven-daddy-homestay"
+  },
+  {
+    "name": "Khách sạn Đăng Khoa",
+    "location": "45/9 Thuy Van -",
+    "price": "428000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/khach-san-dang-khoa"
+  },
+  {
+    "name": "THỦY NGA",
+    "location": "45 thuy van -",
+    "price": "329000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/thuy-nga-66750356"
+  },
+  {
+    "name": "Anna Luxury Apartment",
+    "location": "23D Thùy Vân -",
+    "price": "1292000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/anna-luxury-apartment-66347844"
+  },
+  {
+    "name": "The Seven Hotel",
+    "location": "45/15a Thùy Vân -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/the-seven-hotel-65219884"
+  },
+  {
+    "name": "Camping Vivu24h Hồ Cốc",
+    "location": "Vũng Tàu - Bình Châu -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/camping-vivu24h-ho-coc"
+  },
+  {
+    "name": "Minh Dam Hotel",
+    "location": "Khu phố Hải Sơn,  Thị trấn Phước Hải -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/minh-dam-hotel"
+  },
+  {
+    "name": "Duyen's Homestay - Can ho Son Thinh 1",
+    "location": "23d Thùy Vân -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/duyens-homestay-can-ho-son-thinh-1-64502113"
+  },
+  {
+    "name": "Happy Stay Resort",
+    "location": "Bình Châu Xuyên Mộc Bà Rịa -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/happy-stay-resort"
+  },
+  {
+    "name": "Villa Bien - Resort Oceanami",
+    "location": "44A High Way,  Phuoc Hai Town,  Dat Do,  Ba Ria Vung Tau -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/villa-bien-resort-oceanami"
+  },
+  {
+    "name": "Tan Duy Hotel",
+    "location": "208 Đường 27/4,  Phước Tiến,  Phước Bửu  -",
+    "price": "476000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/tan-duy-hotel"
+  },
+  {
+    "name": "Hang Sói Forest Village",
+    "location": "QL55,  Binh Chau -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hang-soi-forest-village"
+  },
+  {
+    "name": "Huyen's Home",
+    "location": "Đường số 5,  tổ 8,  ấp 2,  xã Bưng Riềng -",
+    "price": "1013000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/huyens-home-66338323"
+  },
+  {
+    "name": "NV SportCamp & Hotel Ho Tram - Ba Ria Vung Tau",
+    "location": "Ven Rung Street -",
+    "price": "714500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/nv-sportcamp-hotel-ho-tram-ba-ria-vung-tau"
+  },
+  {
+    "name": "Binh Chau Homestay",
+    "location": "Bình Châu,  Huyện Xuyên Mộc -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/binh-chau-homestay"
+  },
+  {
+    "name": "Hang Sói Glamping",
+    "location": "Đường Ven Biển -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-vung-tau/hang-soi-glamping"
+  }
+]
