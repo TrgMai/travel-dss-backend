@@ -4,7 +4,7 @@
 # run server: 
 ```python -m uvicorn main:app --host 0.0.0.0 --port 10000```
 
-# /recommend
+# api/recommend
 ```json
 {
   "ngan_sach": 6000000,
@@ -14,7 +14,7 @@
   "rating": 8.0
 }
 ```
-# /build_schedule
+# api/build_schedule
 ```json
 {
   "tour_id": "1049",
