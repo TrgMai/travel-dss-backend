@@ -63,7 +63,7 @@ Tìm khách sạn theo tên gần đúng.
 
 ---
 
-### 🔥 `GET /tours/hot`
+### 🔥 `GET /api/tours/hot`
 Trả về 10 tour hot nhất (sắp xếp theo điểm `score`).
 
 ---

@@ -56,7 +56,7 @@ def search_hotels(req: HotelSearchByNameRequest):
         "results": hotels[:10]
     }
 
-@app.get("/tours/hot")
+@app.get("/api/tours/hot")
 def get_hot_tours():
     top_tours = get_top_hot_tours()
     return {
