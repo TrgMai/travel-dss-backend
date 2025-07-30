@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Khách sạn Bích Ngoan",
+    "location": "19/22 Duong 19/5,  Khom 2 -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-tra-vinh/bichngoan-hotel",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/29851223/-1/18ee8625c923f221b1231eeeec94ffa8.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/29851223/-1/f4dfd8d709e785358913d46ba48a3742.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298/29851223/29851223_220113105500110471784.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298/29851223/29851223_220113172700110482657.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298/29851223/29851223_220113105600110471790.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298/29851223/29851223_220113172700110482665.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/29851223/-1/8630dc9b4b5334d74d459c025f99ab3c.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/29851223/538758605/5717fada42e33de146aa74116a940d1c.jpg"
+    ]
+  },
+  {
+    "name": "La Hotel",
+    "location": "Quốc lộ 53 -",
+    "price": "345500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-tra-vinh/la-hotel-48821266",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/48821266/-1/6075204741ee38cfb4b3375700e1f070.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/48821266/-1/c15ed48885e2142a1e6603d9370a29cb.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/48821266/-1/172a4cc9128f5563653ccca26f912881.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/48821266/0/8a71f3f8e85946bbd1b658a0fa180afc.png",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/48821266/-1/d6c4eb7bdf39379d820a5efd0be7f76e.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/48821266/-1/491870e366309510fbae8197062b5590.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/48821266/0/f413972bcd81be1f97a82b1bac21ee1a.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/48821266/-1/1baddf0e1a26df787c5ae4dd53a1269d.jpg"
+    ]
+  }
+]

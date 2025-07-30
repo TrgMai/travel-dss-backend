@@ -1,5 +1,5 @@
 # main.py
-from fastapi import FastAPI, APIRouter
+from fastapi import FastAPI
 from recommend_tours import recommend_for_user, RecommendRequest
 from schedule_builder import build_schedule, ScheduleRequest
 from fastapi.middleware.cors import CORSMiddleware
@@ -15,20 +15,16 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-api_router = APIRouter()
-
 @app.get("/")
 def root():
     return {"message": "Hello from Tour API"}
 
-@app.post("/recommend")
+@app.post("/api/recommend")
 def recommend_endpoint(req: RecommendRequest):
     profile = req.dict()
     result = recommend_for_user(profile)
     return {"results": result}
 
-@app.post("/build_schedule")
+@app.post("/api/build_schedule")
 def get_schedule(req: ScheduleRequest):
     return build_schedule(req)
-
-app.include_router(api_router, prefix="/api")

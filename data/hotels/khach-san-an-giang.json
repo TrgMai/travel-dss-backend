@@ -1,0 +1,375 @@
+[
+  {
+    "name": "Khách sạn Châu Khương Long Xuyên An Giang",
+    "location": "02 Ha Hoang Ho My Binh Long Xuyen An Giang -",
+    "price": "979000",
+    "rating": "10",
+    "reviews": "1",
+    "link": "https://www.ivivu.com/khach-san-an-giang/chau-khuong-hotel",
+    "images": [
+      "https://cdn1.ivivu.com/images/2024/11/21/14/275230554_az2d9f_.webp",
+      "https://cdn1.ivivu.com/images/2024/11/21/14/276147450_qui3ir_.webp",
+      "https://cdn1.ivivu.com/images/2024/11/21/14/277853053_rde1v6_.webp",
+      "https://cdn1.ivivu.com/images/2024/11/21/14/275226918_ak06t5_.webp",
+      "https://cdn1.ivivu.com/images/2024/11/21/14/277852940_u37mef_.webp",
+      "https://cdn1.ivivu.com/images/2024/11/21/14/277856921_ji8so8_.webp",
+      "https://cdn1.ivivu.com/images/2024/11/21/14/277854556_2o241h_.webp",
+      "https://cdn1.ivivu.com/images/2024/11/21/14/277855214_4f4uqq_.webp"
+    ]
+  },
+  {
+    "name": "Khách sạn Đông Xuyên An Giang",
+    "location": "9 Lương Văn Cù -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/dong-xuyen-hotel",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://q-xx.bstatic.com/xdata/images/hotel/max500/510240062.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://q-xx.bstatic.com/xdata/images/hotel/max500/526555293.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://q-xx.bstatic.com/xdata/images/hotel/max500/526555292.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://q-xx.bstatic.com/xdata/images/hotel/max500/508904174.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://q-xx.bstatic.com/xdata/images/hotel/max500/526555106.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://q-xx.bstatic.com/xdata/images/hotel/max500/508903627.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://q-xx.bstatic.com/xdata/images/hotel/max500/509176559.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://q-xx.bstatic.com/xdata/images/hotel/max500/568261242.jpg"
+    ]
+  },
+  {
+    "name": "Khách sạn Hùng Cường Châu Đốc",
+    "location": "96 Đống Đa,  P. Châu Phú A -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/hung-cuong-hotel",
+    "images": [
+      "https://cdn1.ivivu.com/iVivu/2022/07/08/10/61e37451cb744f2d87df-39062587-cr.webp",
+      "https://cdn1.ivivu.com/iVivu/2022/07/08/10/0f7f20f057564feb98dc-39062584-cr.webp",
+      "https://cdn1.ivivu.com/iVivu/2022/07/08/10/7005535d4ce84377a95f-39062586-cr.webp",
+      "https://cdn1.ivivu.com/iVivu/2022/07/08/10/c95f4d58467d4bde87dc-39062585-cr.webp",
+      "https://cdn1.ivivu.com/iVivu/2022/07/08/10/400ec8663a7e47389a93-39062572-cr.webp",
+      "https://cdn1.ivivu.com/iVivu/2022/07/08/10/3ba089e67ebb41e1947d-39062574-cr.webp",
+      "https://cdn1.ivivu.com/iVivu/2022/07/08/10/345f5727449d4337b5fa-39062575-cr.webp",
+      "https://cdn1.ivivu.com/iVivu/2022/07/08/10/0ba56cded9434113b49f-39062561-cr.webp"
+    ]
+  },
+  {
+    "name": "Murray Guesthouse",
+    "location": "11-15 Truong Dinh -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/murray-guesthouse",
+    "images": [
+      "https://cdn1.ivivu.com/iVivu/2019/03/29/16/nha-nghi-murray.webp",
+      "https://cdn1.ivivu.com/iVivu/2019/03/29/16/nha-nghi-murray-2.webp",
+      "https://cdn1.ivivu.com/iVivu/2019/04/04/18/nha-nghi-murray-chau-doc.webp",
+      "https://cdn1.ivivu.com/iVivu/2019/04/04/18/nha-nghi-murray-chau-doc-1.webp",
+      "https://cdn1.ivivu.com/iVivu/2019/04/04/18/nha-nghi-murray-chau-doc-2.webp",
+      "https://cdn1.ivivu.com/iVivu/2019/04/04/18/nha-nghi-murray-chau-doc-3.webp",
+      "https://cdn1.ivivu.com/iVivu/2019/04/04/18/nha-nghi-murray-chau-doc-4.webp",
+      "https://cdn1.ivivu.com/iVivu/2019/04/04/18/nha-nghi-murray-chau-doc-5.webp"
+    ]
+  },
+  {
+    "name": "Khách sạn Vạn Xuân 79",
+    "location": "ĐƯỜNG LÊ ĐẠI CUƠNG,  PHƯỜNG NÚI SAM,  TP CHÂU ĐỐC,  AN GIANG( NGAY CỔNG TRÀO TTTM NÚI SAM -",
+    "price": "351000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/khach-san-van-xuan-79",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/811/8111844/8111844_19061912030076196704.jpg"
+    ]
+  },
+  {
+    "name": "Khách sạn Ngọc Hân",
+    "location": "Số 266 Trà Sư TT Nhà Bàng,  Tịnh Biên -",
+    "price": "318500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/khach-san-ngoc-han",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/31060125/-1/ae2341957df9a41af254883a611b53b9.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/31060125/-1/be9a9dac6dbe392f81f1e9c7d522d197.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/31060125/-1/d2c842f0903461f50df9334528a23e5f.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/31060125/-1/6dc1a7ce44b13f095507e92277729cfd.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/31060125/-1/04c0ae45d3991ada315c479c6e861dcf.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/31060125/-1/46209b4edbf377b8d1d1225bbcc2caee.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/31060125/-1/cd4f291ad684db60a3da0ba4be4dee97.png",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/31060125/-1/eae45d903dd963801294a662f2522518.jpg"
+    ]
+  },
+  {
+    "name": "NgocLinh Motel",
+    "location": "162 Mai Văn Tạo,  Khóm Vĩnh Đông -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/ngoclinh-motel",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/152/15294560/15294560_20061609370090902382.jpg"
+    ]
+  },
+  {
+    "name": "Khách sạn Lara",
+    "location": "Hùng Vương -",
+    "price": "819500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/lara-hotel",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/215/21582289/21582289_20121610120093670690.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/21582289/-1/875c8810537b0f1058d385e8a691e174.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/21582289/-1/dc3ca9ecd5cae8c48583d7342b32260a.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/21582289/-1/e92cea0d3ce729e82137ccbe2f72cac6.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/21582289/-1/d70867309e9c12a0060b7aa1afa38adf.png",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/21582289/-1/2c8ee33ced29ab46352dd12da457a33c.png",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/21582289/-1/fc0851bd48e58410ac3a31c2b6f49e2c.png",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/215/21582289/21582289_20121610120093670688.jpg"
+    ]
+  },
+  {
+    "name": "Khách sạn Hòa Bình 1 An Giang",
+    "location": "Số 130,  đường Trần Hưng Đạo -",
+    "price": "746000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/hoa-binh-1-hotel",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/297/297330/297330_14072515140020489546.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/297330/-1/afea7461b6262e3dba25675ffb2052db.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/297330/-1/1dbff362bf6f307ad13c1247adf5722c.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/297330/-1/8dc60a3ee70b166d7d3eb6599b20d581.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/297330/-1/09e3b1205bded8a7743870d73404055c.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/297330/-1/3e832dbfd34ce2217a26488591ddf38d.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/297330/-1/2e9a02c849f74ca42f36a7098c5482ca.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/297330/-1/49148abf7c12d317c5f280056cdb9c3f.jpg"
+    ]
+  },
+  {
+    "name": "River Hotel 4 Long Xuyên",
+    "location": "74 Đặng Dung -",
+    "price": "301000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/river-hotel-4-long-xuyen",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49654047/-1/0165ccaf116f56434489a343742f8d25.jpg"
+    ]
+  },
+  {
+    "name": "ALPHA HOMESTAY MARINA LONG XUYÊN",
+    "location": "-",
+    "price": "616000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/alpha-homestay-marina-long-xuyen",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/30622516/0/bb52134a2076d81176097b24c7ed02d4.jpg"
+    ]
+  },
+  {
+    "name": "Phuong Nam Hotel",
+    "location": "Trần Hưng Đạo -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/phuong-nam-hotel",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298012/-1/1a83867f4031ff4669f68d817fa809a7.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298012/-1/9250acc1bc35f8d93468569f88eb3a15.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298012/-1/b73068205101b1d3f1b5531e26e80dc6.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298012/-1/1f9aa746a97ddf0059f146c94b571e12.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298012/-1/7f8b7a8a6a7b24c6a044cb956a604a8b.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298012/-1/b4ff19fe2fadb1cb539ed14d17bd42ee.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298012/-1/b3762c34356d1af15c8946b03e50d72a.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/298012/-1/75818cab5253ad7262588430e0f1c0f8.jpg"
+    ]
+  },
+  {
+    "name": "River Hotel 5",
+    "location": "38 Đ. Vũ Trọng Phụng -",
+    "price": "296000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/river-hotel-5",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49651577/-1/8d7b4f0dfac2b430671311d793918070.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49651577/0/d218d54e514df93a31b40b2734b6db47.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49651577/-1/524441b0abc038775ddbc21691c75de6.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49651577/-1/86c5c1b01ad3cf7f51674ee1493abd0a.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49651577/-1/b56f043b54e874015a43afa6421a19ec.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49651577/-1/f5e37e8e3f8e2d217f88cb4aab43530f.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49651577/-1/cd44add2a4883fe23dabec55e9d5270d.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49651577/0/0feecff966ff52782588613b16bf09e7.jpg"
+    ]
+  },
+  {
+    "name": "Căn hộ Khách sạn cao cấp Marina Plaza Long Xuyên",
+    "location": "to 1 khom binh long 3 phuong my binh long xuyen an giang -",
+    "price": "666000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/can-ho-khach-san-cao-cap-marina-plaza-long-xuyen",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/28985333/0/80e3132bcfb53eb6e1e43b91671dd0e2.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/28985333/0/60c1b035604af4b12c36d15507907532.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/28985333/0/e2ec1db8ac5628b0ca19eecaf0da77c2.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/28985333/0/0e1b4fd5ba1d3c607a680eb1f3d737ed.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/28985333/0/3294178181c7300e14b6da9fada7363d.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/28985333/0/989668a62993d5e20842cb332d5bf716.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/28985333/0/57a34c9eb2400dd5ec3248b03d673230.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/28985333/0/3bff1ffbb871b7535d60a20c966e8660.jpg"
+    ]
+  },
+  {
+    "name": "ALPHA HOMESTAY 2 PHÒNG NGỦ VIEW SÔNG LONG XUYÊN",
+    "location": "-",
+    "price": "872500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/alpha-homestay-2-phong-ngu-view-song-long-xuyen",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/38935293/0/584ed27c3538c8b72ae90eac7c8bb5c4.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/38935293/0/8ff65dfbe2b683673533d959dfe82991.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/38935293/0/c7b3d9b17da6f9f25c886537dd0c5361.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/38935293/0/df931488597982243551ec3ba9497fb5.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/38935293/0/f685862bb863e51fc3d39b9e6b641485.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/38935293/0/98f71d6d561a2d9de75254cf788b8cbf.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/38935293/0/4c1190866113852a34774f510c98d4ee.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/38935293/0/c5980ab83031da36cd5da1097fc2bb2f.jpg"
+    ]
+  },
+  {
+    "name": "Blue Diamond Homestay",
+    "location": "624 Quốc lộ 91,  X&#227; B&#236;nh H&#242;a -",
+    "price": "616000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/blue-diamond-homestay",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49699084/783591274/68603092789a546959eb7da8d74e0ae0.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49699084/-1/ce6be1a7d258915c59253cb367bf89a3.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49699084/783555882/e9231421db4bef459457ef51e92874f9.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49699084/0/aa04be6c6f3c4a623048cb6fa81caba8.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49699084/-1/c8248bc64abc6089d66c4e5e88fabc0b.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49699084/0/f53ba348bf9d513769ff8f9667c14ff8.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49699084/-1/82697c14890f551ce06a1409c16e1529.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/49699084/0/8a84bea6cf17cdbcd87b999969801f19.jpg"
+    ]
+  },
+  {
+    "name": "LARA HOTEL LONG XUYÊN",
+    "location": "46 Hùng Vương Phường Mỹ Long -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/lara-hotel-long-xuyen"
+  },
+  {
+    "name": "Mương Đình Lodge",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/muong-dinh-lodge",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/30788148/0/0df691a03960aec92e706e003ac8b14f.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/30788148/0/8ef1aecf8ccc20dcffff69bbb182f818.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/30788148/0/a5976c4bccd54278e2ada6dcbe6c74e5.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/30788148/0/78e92ffa2a992a8146c01f1c1bdd85c6.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/30788148/0/5f6272913696535fb00153a01d55e0ae.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/30788148/0/61d80aafe47d95d5d461895451aded03.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/30788148/0/0ce892339491710a462ef37d416d01e5.jpg",
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/30788148/0/0aa41e9726f9481e07d2705e557d579c.jpg"
+    ]
+  },
+  {
+    "name": "Homestay Lá - Căn hộ ban công 2 phòng ngủ",
+    "location": "-",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/homestay-la-can-h%E1%BB%99-ban-cang-2-phong-ng%E1%BB%A7"
+  },
+  {
+    "name": "NHÀ NGHỈ THANH XUÂN - CHO THUÊ XE MÁY VÀ HÓA ĐƠN",
+    "location": "169/3A Ngô Văn Sở -",
+    "price": "247500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/nha-ngh%E1%BB%89-thanh-xuan-cho-thua-xe-may-va-hoa-aan"
+  },
+  {
+    "name": "Lá Garden Homestay",
+    "location": "64 đường số 09,  khu đô thị Tây Sông Hậu,  phường Mỹ Phước -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/la-garden-homestay-55763959",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/55763959/0/9a4a29a941afc79d9a507badbd8ea16c.jpg"
+    ]
+  },
+  {
+    "name": "Sao Mai An Giang Hotel",
+    "location": "199 Quản Cơ Thành -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/sao-mai-an-giang-hotel",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/60146910/-1/bb319dbbf21eb4a51c20317408f4ee56.jpg"
+    ]
+  },
+  {
+    "name": "LÁ HOMESTAY - ẤM ÁP NHƯ NHÀ CỦA BẠN",
+    "location": "Số 12,  đường 04,  KĐT Diamond City ( Tây Sông Hậu),  p. Mỹ Phước -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/la-homestay-em-ap-nha-nha-c%E1%BB%A7a-ban"
+  },
+  {
+    "name": "Khách sạn Việt Hàn Long Xuyên An Giang",
+    "location": "Số 220 đường số 10,  Khu đô thị mới Tây Sông Hậu,  Phường Mỹ Phước -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/khach-san-viet-han-long-xuyen-an-giang"
+  },
+  {
+    "name": "Lá Riverside Boutique Hotel",
+    "location": "No. C6-1   C6-2,  Street 10,  West Song Hau Urban Area -",
+    "price": "511500",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/la-riverside-boutique-hotel",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/65913216/0/3006d17076d3a3c84b8c3a54e50c3b35.jpg"
+    ]
+  },
+  {
+    "name": "River Hotel 6",
+    "location": "6 Cô Bắc -",
+    "price": "303000",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/river-hotel-6",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/61193526/-1/fa0d837f810ad6cc70e078d0c4322a67.jpg"
+    ]
+  },
+  {
+    "name": "Nui Cam Homestay",
+    "location": "Nui Cam -",
+    "price": "Hết phòng",
+    "rating": "",
+    "reviews": "",
+    "link": "https://www.ivivu.com/khach-san-an-giang/nui-cam-homestay",
+    "images": [
+      "https://cdn1.ivivu.com/newcdn/fowardimage?url=https://pix8.agoda.net/hotelImages/65501149/0/bb28a040180a20c896fa67adb49b62da.jpg"
+    ]
+  }
+]
